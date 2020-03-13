@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body bgcolor="#fadadd">
+  <center>
+    <h1>Welcome to Skincare Product Recommender</h1>
+    <img src="../static/banner.jpg" height=160 width = 1000>
+    <h2>Find organic products similar to the ones you already love!!</h2>
+    <h3>Are you thinking of switching to organic skin care products?</h3>
+    <img src="../static/question_face.jpg" height=160 width = 150>
+    <p>You have a favority Sephora product but decided to go organic? You don't have to give up the benefit. Let us find you a similar organic product!</p>
+  </center>
+
+
+  <center><p>{{error_message}}</p>
+    <form action="/submit">
+      <h3>
+        <p><label for=sephoraproduct>Enter your favorite Sephora product</label><br><input type = 'string', name=sephoraproduct style="width: 450px; height: 40px; background-color:white;"></p>
+        <p><button type="submit" style="width: 200px; height: 40px; font-size: 15px; color:black; background-color:red;">click here to find similar sephora products</button></p>
+      </h3>
+    </form>
+    <p>Please note: the following database only contains products from Sephora, Credo and Follain for now.</p>
+    <p>The search will only provide organic substitudes for products found at Sephora.</p>
+  </center>
+
+
+</body>
+</html>

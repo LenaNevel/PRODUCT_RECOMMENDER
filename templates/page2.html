@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style media="screen">
+    table {border: 10px solid #C25283; text-align: center; border-spacing: 5px; width: 80%;}
+    th {height:30px; text-align:center;padding: 10px;background-color: #D16587;color: white}
+    tr:hover {background-color: #f5f5f5;}
+  </style>
+</head>
+<body bgcolor="#fadadd">
+
+
+
+
+
+  <center>
+    <h1>Similar products to</h1>
+    <h2 style="font-family:verdana; font-style:italic;">{{sephoraproduct}} by {{productbrand}}</h2>
+    <img src="../static/funny_banner.jpg" height=160 width = 1000 align = center>
+    <h3></h3>
+
+    
+
+  </center>
+
+
+  <center>
+    <h3>"Clean Sephora" Recommendations</h3>
+    {% for table in tables %}
+            {{ table|safe }}
+    {% endfor %}
+    <h3>Other Organic Stores</h3>
+    {% for table in tables2 %}
+            {{ table|safe }}
+    {% endfor %}
+  </center>
+  <center>
+  <p>Please note: the following database only contains products from Sephora, Credo and Follain for now.</p>
+  <p>The search will only provide organic substitudes for products found at Sephora.</p>
+</center>
+</body>
+</html>

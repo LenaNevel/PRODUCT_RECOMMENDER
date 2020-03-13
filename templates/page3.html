@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style media="screen">
+    table {border: 10px solid #C25283; text-align: center; border-spacing: 5px; width: 80%;}
+    th {height:30px; text-align:center;padding: 10px;background-color: #D16587;color: white}
+    tr:hover {background-color: #f5f5f5;}
+  </style>
+</head>
+<body bgcolor="#fadadd">
+  <center>
+    <h1>OH NO!</h1>
+    <img src="../static/oh_no.jpg" height=160 width = 200>
+    <h2>OH NO! The product "{{giberish}}" must not be in our system.</h2>
+    <h3>We appologize! Please try a different product name.</h3>
+    <img src="../static/try_again.jpg" height=160 width = 200>
+    <center>
+
+        <h3>Did you mean?</h3>
+        {% for table in tables %}
+                {{ table|safe }}
+        {% endfor %}
+
+    </center>
+    <p>Please note: the following database only contains products from Sephora, Credo and Follain for now.</p>
+    <p>The search will only provide organic substitudes for products found at Sephora.</p>
+  </center>
+
+
+</body>
+</html>

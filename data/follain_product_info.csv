@@ -1,0 +1,946 @@
+name,brand,category,price,ingredients
+Brightening Cleanser,Indie Lee,cleansers,"
+
+          $34.00
+        
+","['Water', 'Decyl Glucoside', 'Disodium Coco Glucoside Citrate', 'Coco Glucoside', 'Glyceryl Oleate', 'Hydrolyzed Wheat Protein', 'Xanthan Gum', 'Fragaria Chiloensis (Strawberry) Seed Oil', 'Lycopene (Tomato)', 'Propanediol', 'Ethylhexylglycerin', 'Potassium Sorbate']"
+Ocean Cleanser,OSEA,cleansers,"
+
+          $48.00
+        
+","['Aqua', '*Algae Extract', 'Decyl Glucoside', 'Sodium Lauroyl Oat Amino Acids', 'Sorbitan Olivate', '*Sesamum Indicum (Sesame) Seed Oil', '*Simmondsia Chinensis (Jojoba) Seed Oil', 'Magnesium Aluminum Silicate', 'Tocopherol (Vitamin E/Vitamine E)', '*Citrus Aurantifolia (Lime) Oil', '*Citrus Aurantium Dulcis (Orange) Oil', '*Juniperus Communis (Juniper) Fruit Oil', '*Cupressus Sempervirens (Cypress) Essential Oil', '*Jasminum Officinale (Jasmine) Oil', 'Lactic Acid', 'Xanthan Gum', 'Glycine', 'Potassium Sorbate', 'Chlorophyll']"
+Regenerating Cleanser,Tata Harper,cleansers,"
+
+          $84.00
+        
+","['*Aloe Vera Leaf Juice', 'Cetearyl Alcohol', 'Cetearyl Olivate', 'Helianthus Annuus (Sunflower) Seed Oil', 'Apricot Seed Powder', 'Sorbitan Olivate', 'Rice Seed Extract', 'Pomegranate Extract', 'Leuconostoc Ferment Filtrate', 'Water', 'Coco Glucoside', 'Cetearyl Glucoside', 'Rose Clay', 'Sclerotium Gum', 'Cetyl Palmitate', 'White Willow Bark Extract', 'Sorbitan Palmitate', 'Sodium Phytate', 'Denatured Alcohol', 'Benzyl Alcohol', '**Aroma', 'Benzyl Benzoate', 'Citral', 'Citronellol', 'Eugenol', 'Geraniol', 'Limonene', 'Linalool']"
+Vitamin B Cleansing Oil & Makeup Remover,One Love Organics,cleansers,"
+
+          $42.00
+        
+","['*Helianthus Annus (Sunflower) Seed Oil', 'Caprylic/Capric Triglyceride', 'Di-PPG-2 Myreth-10 Adipate', 'Polyglycerol-3 Beeswax', 'Carica Papaya (Papaya) Seed Oil', '*Cucurbita Prepo (Pumpkin) Seed Oil', 'Tocopherol', 'Ascorbyl Palmitate', '*Papain', '*Lecithin', 'Fragrance/Parfum']"
+Fantastic Face Wash,Ursa Major,cleansers,"
+
+          $28.00
+        
+","['*Aloe Barbadensis (Aloe Vera) Leaf Juice', 'Lauryl Glucoside', 'Cocoglucoside', 'Sodium Cocoyl Glutamate', 'Sodium Lauroamphoacetate', 'Water/Aqua/Eau', 'Inulin', 'Glyceryl Laurate', 'Sodium Lauroyl Glutamate', 'Xylitylglucoside', 'Anhydroxylitol', 'Xylitol', '*Oryza Sativa (Rice) Seed Extract', '*Camellia Sinensis (White Tea) Leaf Extract', 'Vaccinium Myrtillus (Bilberry) Fruit/Leaf Extract', 'Saccharum Officinarum (Sugar Cane) Extract', 'Acer Saccharum (Sugar Maple) Extract', 'Citrus Aurantium Dulcis (Orange) Fruit Extract', 'Citrus Medica Limonum (Lemon) Extract', '*Picea Mariana (Black Spruce) Needle Oil', '*Pseudotsuga Menziesii (Fir) Needle Oil', 'Rosmarinus Officinalis (Rosemary) Leaf/ Flower Water', '*Lavandula Angustifolia (Lavender) Flower Water', 'Citrus Paradisi (Pink Grapefruit) Peel Oil', 'Citrus Aurantifolia (Lime) Peel Oil', 'Artemisia Ludoviciana (Owyhee) Leaf Oil', 'Juniperus Virginiana (Cedar) Wood Oil', 'Tanacetum Annuum (Blue Tansy) Flower Oil', 'Nardostachys Chinensis (Spikenard) Root Oil', 'Vetiveria Zizanioides (Vetiver) Root Oil', 'Mentha Spicata (Spearmint) Leaf Oil', 'Sodium Phytate', 'Alcohol', 'Pca Glyceryl Oleate', 'Citric Acid', 'Gluconolactone', 'Sodium Benzoate']"
+Essential Face Wipes – Bag of 20,Ursa Major,cleansers,"
+
+          $24.00
+        
+","['*Aloe Barbadensis (Aloe Vera) Leaf Juice', 'Water/Aqua/Eau', 'Leuconostoc/Radish Root Ferment Filtrate', 'Rosmarinus Officinalis (Rosemary) Leaf/ Flower Water', 'Salix Nigra (Willow) Bark Extract', '*Hamamelis Virginiana (Witch Hazel) Pulp Water', '*Glycerin', 'Sodium Hyaluronate', 'Levulinic Acid', 'Sodium Levulinate', 'Vaccinium Myrtillus (Bilberry) Fruit/Leaf Extract', 'Saccharum Officinarum (Sugar Cane) Extract', 'Acer Saccharum (Sugar Maple) Extract', 'Citrus Aurantium Dulcis (Orange) Fruit Extract', 'Citrus Limon (Lemon) Fruit Extract', '*Oryza Sativa (Rice) Seed Extract', '*Camellia Sinensis (Green tea) Leaf Extract', 'Betula Alba (Birch) Sap', 'Lactobacillus/Arundinaria Gigantea (Bamboo)Ferment Filtrate', 'Caprylyl/Capryl Wheat Bran/Straw Glycosides', 'Fusel Wheat Bran/Straw Glycosides', 'Polyglyceryl-5 Oleate', 'Sodium Cocoyl Glutamate', 'Glyceryl Caprylate', 'Olea Europaea (Olive) Leaf Extract', '*Pseudotsuga Menziesii (Fir) Needle Oil', '*Lavandula Angustifolia (Lavender) Flower Oil', 'Rosmarinus Officinalis (Rosemary) Leaf Oil', '*Pelargonium Graveolens (Geranium) Leaf/Flower Oil', 'Boswellia Carterii (Frankincense) Resin Extract', 'Leuconostoc Ferment Filtrate', 'Propanediol', 'Soybean Peroxidase', 'Superoxide Dismutase', 'Citric Acid', 'Potassium Sorbate', 'Alcohol', 'Linalool', 'Citronellol', 'Geraniol', 'Limonene']"
+Manuka Honey Cleansing Balm,Naturopathica,cleansers,"
+
+          $62.00
+        
+","['Prunus Amygdalus Dulcis (Sweet Almond) Oil', 'Glycerin', 'Caprylic/Capric Triglyceride', 'Butyrospermum Parkii (Shea) Butter', 'Jojoba Esters (Beads)', 'Glyceryl Behenate', 'Sunflower Seed Wax', 'Theobroma Cacao (Cocoa Seed) Butter', 'Aqua (Water/Eau)', 'Sucrose Laurate', 'Lactobacillus Ferment', 'Parfum (Fragrance)', 'Mangifera Indica (Mango) Butter', 'Argania Spinosa Kernel Oil', 'Mel (Honey, Miel)', 'Pentapeptide-48', 'Cocos Nucifera (Coconut) Fruit Extract', 'Calendula Flower Extract', 'Acacia Decurrens Flower Wax', 'Hippophae Rhamnoides Fruit Oil', 'Glycine Soja (Soybean) Oil', 'Tocopherol', 'Populus Tremuloides Bark Extract', 'Lactobacillus Ferment Lysate Filtrate', 'Lactobacillus', 'Hydrogenated Lecithin', 'Polyglycerin-3', 'Leuconostoc/Radish Root Ferment Filtrate', 'Phenethyl Alcohol', 'Ethylhexylglycerin', 'Maltodextrin', 'Benzyl Alcohol']"
+Purifying Face Wash,Indie Lee,cleansers,"
+
+          $34.00
+        
+","['Water (Aqua/Eau)', 'Capryloyl/Caproyl Methyl Glucamide', 'Lauroyl/Myristoyl Methyl Glucamide', 'Coco Glucoside, Sucrose Cocoate', 'Glycerin', 'Spondias Mombin Pulp Extract', 'Caprylic/ Capric Triglyceride', 'Citrus Aurantium Dulcis (Orange) Peel Extract', 'Rose Damascena Flower Extract', 'Vanilla Plantifolia Fruit Extract', 'Vitis Vinifera (Grape) Fruit Extract', 'Citrus Limon (Lemon) Peel Extract', 'Eugenia Caryophyllus (Clove) Flower Extract', 'Lavendula Angustifloia (Lavender) Flower/Leaf/Stem Extract', 'Jasminum Officinale (Jasmine) Flower Extract', 'Citrus Reticulata (Tangerine) Fruit Extract', 'Arctium Lappa Root Extract', 'Xanthan Gum', 'Citric Acid', 'Sodium Benzoate', 'Potassium Sorbate', 'Propanediol', 'Pentylene Glycol (Natural)', 'Phenethyl Alcohol (Natural)']"
+Cleansing Milk,Tammy Fender,cleansers,"
+
+          $55.00
+        
+","['*Lavandula Angustifolia (Lavender) Flower Water', '*Anthemis Nobilis (Chamomile) Flower Water', '*Rosa Centifolia (Rose) Flower Water', 'Behenyl Olivate (Olive)', 'Stearyl Olivate (Olive)', 'Glyceryl Stearate', 'Octyl Dodecanol (Olive)', 'Beeswax (Cera Alba)', 'Decyl Glucoside', 'Sodium Myristoyl Sarcosinate', 'Cetearyl Alcohol', 'Sodium Lauroyl Lactylate', 'Sclerotium Gum (Mushroom)', 'Sodium Chloride', 'Lecithin', 'Lavandula Angustifolia (Lavender) Oil', 'Citrus Paradisi (Grapefruit) Oil', 'Citrus Aurantium Dulcis (Sweet Orange) Oil', '*Helianthus Annuus (Sunflower) Seed Oil', 'Calendula Officinalis (Marigold) Flower Extract', 'Commiphora Myrrah (Myrrh) Extract', 'Daucus Carota Sativa (Carrot) Seed Extract', 'Chamomilla Recutita (Matricaria) Flower Extract', 'Sambucus Niger (Elderberry) Flower Extract', 'Lilium Candidum (White Lily) Flower Extract', 'Polygonum Multiflorum (Fo-Ti) Root Extract', 'Glycolopids', 'Leuconostoc/Radish Root Ferment Filtrate', 'Cocos Nucifera (Coconut) Fruit Extract', 'Lactobacillus', 'Cocamidopropyl Hydroxysultaine', 'Sodium Cococyl (Apple) Amino Acids']"
+Rosehip Cleanser,Indie Lee,cleansers,"
+
+          $34.00
+        
+","['Water', 'Glycerin', 'Potassium Cocoate', 'Fragrance (Parfum)', 'Chondrus Crispus Extract', 'Rosa Rubiginosa Seed Oil', 'Phenethyl Alcohol', 'Pentylene Glycol', 'Propanediol', 'Xanthan Gum', 'Hexyl Cinnamal']"
+Oat Cleansing Facial Polish,Naturopathica,cleansers,"
+
+          $62.00
+        
+","['Aloe Barbadensis (Aloe Vera) Leaf Juice', 'Helianthus Annuus (Sunflower) Seed Oil', 'Cetearyl Alcohol', 'Cetearyl Glucoside', 'Simmondsia Chinensis (Jojoba) Wax Beads', 'Avena Sativa (Oat) Flour', 'Lactobacillus Ferment', 'Sesamun Indicum (Sesame) Seed Oil', 'Glycerin', 'Arachidyl Alcohol', 'Behenyl Alcohol', 'Arachidyl Glucoside', 'Water/Aqua/Eau', 'Avena Sativa (Oat) Extract', 'Triticum Vulgare (Wheat) Germ Oil', 'Chitin', 'Beta Glucan', 'Glyceryl Caprylate', 'Sclerotium Gum', 'Rosmarinus Officinalis (Rosemary) Leaf Extract', 'P-Anisic Acid', 'Lavandula Angustifolia (Lavender) Flower Oil', 'Rosa Damascena (Rose) Flower Oil', 'Nardostachys Chinensis (Spikenard) Root Oil', 'Cananga Odorata (Ylang Ylang) Flower Oil', 'Xanthan Gum', 'Phenethyl Alcohol']"
+Aloe Cleansing Gel,Naturopathica,cleansers,"
+
+          $38.00
+        
+","['*Aloe Barbadensis (Aloe Vera) Leaf Juice', 'Decyl Glucoside', 'Sodium Cocoyl Glutamate', 'Glycerin', 'Lavandula Angustifolia (Lavender) Flower Water', 'Xylitylglucoside', 'Anhydroxylitol', 'Xylitol', 'Lactobacillus Ferment', 'Sclerotium Gum', 'Coco-Glucoside', 'Glyceryl Oleate', 'Avena Sativa (Oat) Extract', '*Lavandula Angustifolia (Lavender) Flower Oil', '*Rosa Damascena (Rose) Flower Oil', 'Lavandula Burnati (Lavandin) Flower/Leaf Oil', 'Cananga Odorata (Ylang Ylang) Flower Oil', 'Potassium Sorbate', 'Water/Aqua/Eau', 'Citric Acid']"
+Hydrating Cleanser: Purify + Nourish,Follain,cleansers,"
+
+          $22.00
+        
+","['Water/Aqua/Eau', 'Glycerin', 'Potassium Cocoyl Glycinate', 'Glyceryl Caprylate/Caprate', 'Decyl Glucoside', 'Potassium Cocoate', '1,2-Hexanediol', 'Salix Nigra (Willow) Bark Extract', 'Rosa Canina Fruit Oil', 'Camellia Sinensis Leaf Extract', 'Moringa Oleifera Leaf Extract', 'Macrocystis Pyrifera (Kelp) Extract', 'Citrus Reticulata (Tangerine) Peel Oil', 'Citrus Paradisi (Grapefruit) Peel Oil', 'Citric Acid', 'Glyceryl Caprylate', 'Xanthan Gum', 'Ethylhexylglycerin', 'Sodium Gluconate', 'Cocamide MIPA', 'Caprylhydroxamic Acid', 'Citrus Limon (Lemon) Peel Extract', 'Potassium Sorbate', 'Sodium Benzoate']"
+Ocean Cleansing Mudd,OSEA,cleansers,"
+
+          $48.00
+        
+","['Aqua', '*Macrocystis Pyrifera Algae', 'Decyl Glucoside', 'Sodium Lauroyl Oat Amino Acids', '*Fucus Vesiculosus Extract', 'Laminaria Digitata Extract', 'Coco Glucoside', 'Coconut Alcohol', 'Sorbitan Olivate', '*Simmondsia Chinensis Oil (Jojoba) Seed Oil', '*Carthamus Tinctorius (Safflower) Seed Oil', '*Melaleuca Alternifolia (Tea Tree) Essential Oil', '*Rosmarinus Officinalis Leaf (Rosemary Essential Oil)', 'Salvia Officinalis (Sage) Essential Oil', '*Lavandula Angustifolia (Lavender) Essential Oil', 'Mentha Piperita (Peppermint) Essential Oil', '*Cupressus Sempervirens (Cypress) Essential Oil', 'Tocopherol', 'Vaccinium Myrtillus (Bilberry) Extract', 'Citrus Aurantium Dulcis (Orange) Fruit Extract', 'Citrus Medica Limonium (Lemon) Fruit Extract', 'Acer Saccharinum (Sugar Maple) Extract', 'Magnesium Aluminum Silicate', 'Xanthan Gum', 'Potassium Sorbate', 'Lonicera Caprifolium Extract']"
+Camellia & Rose Gentle Hydrating Cleanser,Pai,cleansers,"
+
+          $50.00
+        
+","['Aqua - Purified Water', '*Camellia Oleifera Seed Oil', '*Ricinus Communis Seed Oil - Castor Oil', '*Prunus Amygdalus Dulcis Oil', 'Lactobacillus Ferment - Naturally Derived Preservative', 'Cetearyl Alcohol - Naturally Derived Emulsifier', 'Glycerin - Organic Derived Vegetable Glycerine', '*Butyrospermum Parkii Butter', 'Cetearyl Glucoside - Naturally Derived Emulsifier', 'Tocopherol - Natural Vitamin E', 'Rosa Damascena Oil - Rose Oil', '*Pelargonium Graveolens Oil', 'Sodium Levulinate - Naturally Derived Preservative', '*Lavandula Augustifolia Oil - Lavender Oil', 'Lactic Acid - Ph Regulator', 'Litsea Cubeba Oil - May Chang Oil', 'Sodium Stearoyl Glutamate - Naturally Derived Emulsifier', 'Sodium Anisate - Naturally derived Preservative', '**Citral', '**Citronellol', '**d-Limonene', '**Geraniol', '**Linalool']"
+Ocean Cleansing Milk,OSEA,cleansers,"
+
+          $54.00
+        
+","['Aqua', '*Algae Extract', '*Carthamus Tinctorius (Safflower) Seed Oil', 'Coco Caprylate/Caprate', 'Sodium Lauroyl Oat Amino Acids', 'Disodium Cocoyl Glutamate', 'Sorbitan Olivate', 'Decyl Glucoside', '*Glycerin', 'Dipalmitoyl Hydroxyproline (Amino Acid Compound)', 'Capryloyl Glycine', 'Acacia Farnesiana (Cassie Flower) Flower Wax', 'Rosa Centifolia (Rose) Flower Wax', 'Sodium Palmitoyl', 'Water Lily Extract', 'Undecylenoyl Glycine', 'Magnesium Ascorbyl Phosphate', 'Hamamelis Virginiana (Witch Hazel)', 'Anthemis Nobilis (Chamomile) Flower Extract', '*Rosmarinus Officinalis Leaf (Rosemary Essential Oil)', '*Chondrus Crispus', 'Xanthan Gum', 'Glycine', 'Potassium Sorbate']"
+The Cleansing Sponge – Rose Clay,One Love Organics,cleansers,"
+
+          $10.00
+        
+","['Konjac-Mannan Plant Fiber (Glucomannan)', 'kaolin-illitee (pink clay)']"
+Light Work Rosehip Cleansing Oil,Pai,cleansers,"
+
+          $56.00
+        
+","['*Olea Europaea (Olive) Fruit Oil', '*Helianthus Annuus (Sunflower) Seed Oil', 'Polyglyceryl-4 Oleate', '*Ricinus Communis (Castor) Seed Oil', '*Rosa Canina (Rosehip) Fruit Extract', '*Jasminum Grandiflorum (Jasmine) Flower Extract', '*Citrus Aurantifolia (Lime) Peel Oil', '*Citrus Aurantium Dulcis (Orange) Peel Oil', '*Pelargonium Graveolens Oil', '*Ocimum Basilicum (Basil) Oil', 'Tocopherol', '*Rosmarinus Officinalis (Rosemary) Leaf Extract', '**Limonene', '**Citronellol', '**Geraniol', '**Citral', '**Linalool']"
+Charcoal Bar Soap,Herbivore Botanicals,cleansers,"
+
+          $12.00
+        
+","['Saponified Oils Of Cocos Nucifera (Coconut) Oil', 'Olea Europaea (Olive) Fruit Oil', 'Elaeis Guineensis (Sustainable Palm) Oil', 'Tocopherol (Vitamin E/Vitamine E)', 'Kaolinite (White Clay)', 'Activated Bamboo Charcoal', 'Melaleuca Alternifolia (Tea Tree) Leaf Oil', 'Citrus Bergamia (Bergamot) Essential Oil']"
+The Cleansing Sponge – Charcoal,One Love Organics,cleansers,"
+
+          $10.00
+        
+","['Konjac-Mannan Plant Fiber (Glucomannan)', 'Bamboo Charcoal']"
+Black Clay Facial Soap,Osmia,cleansers,"
+
+          $24.00
+        
+","['*Saponified Oils/Butters Of Olea Europea (Olive)', '*Responsibly-Sourced Elaeis Guineensis (Palm Kernel)', '*Mangifera Indica (Mango)', '*Cocos Nucifera', '*Prunus Dulcis (Sweet Almond)', '*Ricinus Communis (Castor)', '*Persea Gratissma (Avocado)', '*Cocos Nucifera (Coconut) Milk', 'Dead Sea Mud', '*Saponified Simmondsia Chinensis (Jojoba) Oil', 'Iron Oxide (Australian Black Midnight Clay)', 'Proprietary Blend Of Organic & Wild-Harvested Essential Oils', 'Non-GMO Mixed Tocopherols', '*Rosmarinus Officinalis (Rosemary) Co2']"
+Clarifying Cleanser,Tata Harper,cleansers,"
+
+          $72.00
+        
+","['*Hordeum Vulgare Leaf Juice', 'Caprylyl/Capryl Glucoside', 'Coco Glucoside', 'Glycerin', 'Decyl Glucoside', 'Lauryl Glucoside', 'Aqua/Water/Eau', 'Maltooligosyl Glucoside', 'Mel/Honey/Miel', 'Salix Alba (Willow) Bark Extract', 'Hydrogenated Starch Hydrolysate', '**Aroma', 'Hydrolyzed Opuntia Ficus-Indica Flower Extract', 'Lactobacillus Ferment', 'Leuconostoc Ferment Filtrate', 'Gaultheria Procumbens (Wintergreen) Leaf Extract', 'L (+) Lactic Acid', 'Citric Acid', 'Yucca Schidigera Extract', 'Chlorella Pyrenoidosa', 'Juniperus Communis Fruit Extract', 'Saccharide Isomerate', '*Arnica Montana (Arnica) Extract', '*Borago Officinalis (Borage) Leaf Extract', '*Calendula Officinalis (Calendula) Flower Extract', '*Medicago Sativa (Alfalfa) Extract', '*Spiraea Ulmaria (Meadowsweet) Extract', '*Olea Europaea (Olive) Oil', 'Serenoa Serrulata Fruit Extract', 'Tocopherol', 'Sambucus Nigra Fruit Extract', 'P-Anisic Acid', 'Menthol', 'Menthyl Lactate', 'Sodium Phytate', 'Acacia Senegal Gum', 'Xanthan Gum', 'Sodium Citrate', 'Sodium Caproyl/Lauroyl Lactylate', 'Polyglyceryl-10 Laurate', 'CI 77288', 'Alcohol', 'Limonene', 'Linalool']"
+Australian Wild Plum & Willow Facial Cleanser,Pangea Organics,cleansers,"
+
+          $32.00
+        
+","['*Aloe Barbadensis (Aloe) Leaf Juice', 'Decyl Glucoside', 'Aqua (Water)', 'Glycerin', 'Sodium Benzoate & Gluconic Acid & Water', 'Salvia Sclarea (Clary Sage) Oil', 'Salvia Officinalis (Sage) Oil', 'Aniba Rosaeodora (Rosewood) Wood Oil', 'Lavandula Angustifolia (Lavender) Oil', 'Citrus Aurantium Dulcis (Orange) Oil', 'Citrus Aurantium Bergamia (Bergamot) Oil', 'Elettaria Cardamomum (Cardamom) Oil', '*Vitis Vinifera (Grape) Seed Extract', '*Salix Alba (Willow) Bark Extract', '*Sambucus Nigra (Elder) Fruit Extract', '*Melissa Officinalis (Lemon Balm) Extract', '*Tilia Cordata (Linden) Flower Extract', 'Sodium Alginate', 'Xanthan Gum', 'Potassium Sorbate', 'Yucca Schidigera (Yucca) Root Extract', 'Terminalia Ferdinandiana (Kakadu Plum) Extract', 'Pleiogynium Timorense (Burdekin Plum) Extract', 'Podocarpus Elatus (Illawarra Plum) Extract', 'Leptospermum Scoparium Mel (Manuka Honey)', 'Potassium Cocoate', 'Argania Spinosa (Argan) Kernel Oil']"
+Fine Herbal Cleanser,Farmaesthetics,cleansers,"
+
+          $42.00
+        
+","['Witch Hazel', 'Vegetable Glycerin', '*acylglutamate', 'Geranium Essential Oil', 'Lavender Essential Oil']"
+Clean Dirt,May Lindstrom,cleansers,"
+
+          $70.00
+        
+","['Kaolin (White Halloysite) Clay', 'Red Moroccan Rhassoul Clay', 'Red Alaea Sea Salt (Sea Salt and Red Alaea)', 'L-Ascorbic Acid (Vitamin C)', 'Sodium Bicarbonate', '*Althaea Officinalis (Marshmallow) Root', '*Rosa Centifolia (Pink Rose)', '*Calendula Officinalis (Calendula) Flower', '*Cinnamomum Zealanicum Blum (Ceylon Cinnamon)', '*Myristica Fragans (Nutmeg)', '*Syzygium Aromaticum (Clove)', '*Curcuma Longa (Turmeric)', '*Zingiber Officinale (Ginger)', '*Vanilla Planifolia Bean', '**Theobroma Cacao (Raw Cacao)', '***Eugenol']"
+Complete Moisture Cleanse,Josh Rosebrook,cleansers,"
+
+          $55.00
+        
+","['*Aloe Vera Gel', 'Saponified Coconut Oil', 'Water', '*Honey', '*Vegetable Glycerin', 'Xanthan Gum (Non-GMO)', '*Broccoli Seed Oil', '*Jojoba Oil', '*Baobab Oil', '*Hemp Seed Oil', '*Borage Seed Oil', '*Argan Oil', '*Sea Buckthorn Oil', '*Avocado Oil', '*Evening Primrose Oil', '*Almond Oil', '*Sunflower Oil', '*Grape Seed Oil', '*Sesame Seed Oil', '*Rose Petal', '*Eye Bright Herb Extract', 'Turmeric', '*Rosemary', '*Sage Extract', '*Goji Berry', '*Alfalfa', '*Beet Root', '*Dandelion', '*Ashwagandha', '*Marshmallow Root', '*Raspberry Leaf Extract', '*Chickweed', '*Calendula Extract', '*Elderberry', '*Rose Hips', '*Ginkgo Leaf', '*Milk Thistle', '*Black Cohosh', '*Licorice Root Extract', '*Ginger Root', '*Bladderwrack', '*Fenugreek', '*Hawthorn Berry', '*Cats Claw', 'Lavender Flowers', ""*St. John's Wort Extract"", '*Cinnamon', '**Potassium Sorbate', '*Vanilla Extract', '*Rosmarinus Officinalis Leaf (Rosemary Essential Oil)', '*Ylang Ylang Oil', '*Eucalyptus Leaf Oil']"
+Nourishing Oil Cleanser,Tata Harper,cleansers,"
+
+          $82.00
+        
+","['*Helianthus Annuus (Sunflower) Seed Oil', 'Shea Butter Ethyl Esters', 'Polyglyceryl-4 Oleate', '*Prunus Armeniaca (Apricot) Kernel Oil', '*Simmondsia Chinensis (Jojoba) Seed Oil', '*Olea Europaea (Olive) Oil', '*Argania Spinosa (Argan) Kernel Oil', '*Plukenetia Volubilis Seed Oil', '*Camellia Oleifera Seed Oil', 'Jojoba Esters (Beads)', '*Arnica Montana (Arnica) Extract', '*Borago Officinalis (Borage) Leaf Extract', '*Medicago Sativa (Alfalfa) Extract', '*Filipendula Ulnaria (Meadowsweet) Extract', '*Calendula Officinalis (Calendula) Flower Extract', 'Sambucus Nigra Fruit Extract', 'Tocopherol', '**Aroma', 'Citral', 'Citronellol', 'Eugenol', 'Geraniol', 'Limonene', 'Linalool']"
+Egyptian Calendula & Blood Orange Facial Cleanser,Pangea Organics,cleansers,"
+
+          $32.00
+        
+","['*Aloe Barbadensis (Aloe Vera) Leaf Juice', 'Decyl Glucoside', 'Purified Water (Aqua)', 'Glyceryl Stearate SE', '*Helianthus Annuus (High Oleic Sunflower Seed) Oil', 'Sodium Stearoyl Lactylate', 'Glyceryl Caprylate', 'Glyceryl Undecylenate', 'Xanthan Gum', 'Cocos Nucifera (Coconut) Oil', 'Prunus Amygdalus Dulcis (Sweet Almond) Oil', '*Butyrospermum Parkii (Shea) Butter', '*Oenothera Biennis (Evening Primrose) Oil', '*Lecithin', '*Theobroma Cacao (Cocoa) Seed Butter', 'Glycerin (Vegetable)', 'Rosa Damasena Flower Extract', 'Rosmarinus Officnalis (Rosemary) Leaf Extract', 'Calendula Offincalis Flower Extract', 'Lavandula Angustifolia (Lavender) Flower/Leaf/Stem Extract', 'Calendula Officinalis (Calendula) Flower Oil', 'Citrus Sinesis (Blood Orange) Extract', 'Potassium Sorbate', 'Ascorbic Acid (Vitamin C)']"
+Organic Face Wash,Leap Organics,cleansers,"
+
+          $18.00
+        
+","['Water', '*Organic Aloe Barbadensis Juice', '*Organic Vegetable Glycerin', '*Organic Cocos Nucifera (Coconut) Oil', '*Organic Helianthus Annuus (Sunflower) Oil', '*Organic Cyamopsis Tetragonolobus (Guar) Gum', 'Potassium Hydroxide', '*Organic Simmondsia Chinensis (Jojoba) Oil', '*Organic Oenothera Biennis (Evening Primrose) Oil', '*Organic Citrus Sinensis (Sweet Orange) Oil', '*Organic Citrus Paradisi (Grapefruit) Oil', 'Organic Persea Gratissima (Avocado) Oil', '*Organic Orbignya Oleifera (Babassu) Oil', '*Organic Butyrospermum Parkii (Shea) Butter', '*Organic Rosmarinus Officinalis (Rosemary) Extract', 'Non-GMO Mixed Tocopherols']"
+The Pendulum Potion,May Lindstrom,cleansers,"
+
+          $80.00
+        
+","['*Calophyllum Inophyllum (Tamanu) Seed Oil', '*Camellia Oleifera Seed Oil', '*Macadamia Ternifolia Seed Oil', '*Persea Gratissima (Avocado) Oil', '*Olea Europaea (Olive) Fruit Oil', 'Prunus Domestica (Plum Kernel) Oil', 'Theobroma Cacao (Cocoa) Oleoresin', '*Citrus Sinensis (Sweet Orange) Peel Essential Oil', '**Commiphora Myrrha (Myrrh) Oil', 'Jasminum Grandiflorum (Jasmine) Flower Absolute', '*Cananga Odorata (Ylang-Ylang) Oil', '*Citrus Limon (Lemon) Peel Oil', '**Boswellia Serrate Gum (Frankincense) Oil', '**Myroxylon Pereirae (Balsam of Peru) Oil', '***Limonene', '***Benzyl Benzoate', '***Linalool', '***Benzyl Cinnamate']"
+Purifying Cleansing Gel,Tammy Fender,cleansers,"
+
+          $50.00
+        
+","['Aloe Barbadensis (Aloe Vera) Leaf Juice', '*Cucumis Sativus (Cucumber) Fruit Water', '*Rosmarinus Officinalis (Rosemary) Leaf Water', 'Sodium Laurylglucosides Hydroxypropylsulfonate', 'Cocamidopropyl Hydroxysultaine', 'Myristamine Oxide', 'Arctium Lappa (Great Burdock) Root Extract', 'Lavandula Angustifolia (Lavender) Oil', 'Glycerin', 'Mentha Viridis (Spearmint) Leaf Oil', 'Lavandula Hybrida Oil', 'Nasturtium Officinale (Watercress) Flower/Leaf Extract', 'Caprylyl/Capryl Glucoside', 'Decyl Glucoside', 'Chlorophyllin-Copper Complex', 'Sodium Benzoate', 'Potassium Sorbate', 'Caprylic/Capric Triglyceride', 'Medicago Sativa (Alfalfa) Leaf Powder']"
+Coconut Cream,RMS Beauty,cleansers,"
+
+          $18.00
+        
+",['*Coconut Oil']
+Fight Grime Cleanser,27 Rosiers,cleansers,"
+
+          $39.00
+        
+","['Water/Eau/Aqua', 'Decyl Glucoside', 'Glycerin', 'Pentylene Glycol', 'Sodium Cocoyl Glutamate', 'Sorbitan Oleate Decylglucoside Crosspolymer', 'Moringa Oleifera Seed Extract', 'Withania Somnifera Root Extract', 'Aloe Barbadensis (Aloe Vera) Leaf Juice', 'Calendula Flower Extract', 'Chamomilla Recutita Flower Extract', 'Fructose', 'Saccharide Isomerate', 'Glyceryl Caprylate/Caprate', 'Phytic Acid', 'Maltodextrin', 'Acrylates/C10-30 Alkyl Acrylate Crosspolymer', 'Sodium Hydroxide', 'Citric Acid', 'Potassium Sorbate', 'Sodium Benzoate', 'Fragrance/Parfum']"
+Cleansing Perfection Foam,Patyka,cleansers,"
+
+          $33.00
+        
+","['*Hordeum Vulgare Stem Water', 'Aqua (Water)', 'Coco Glucoside', 'Sodium Lauryl Glucose Carboxylate', 'Lauryl Glucoside', 'Apricot Kernel Oil Polyglyceryl-6 Esters', 'Parfum (Fragrance)', 'Betaine', 'Levulinic Acid', 'Cocamidopropyl Betaine', 'Citric Acid', 'Glycerin', 'Sodium Benzoate', 'Sodium Levulinate', 'Alpha-Glucan Oligosaccharide', 'Potassium Sorbate', 'Sorbic Acid', 'Vaccinium Myrtillus Fruit/Leaf Extract', 'Saccharum Officinarum (Sugar Cane) Extract', 'Citrus Aurantium Dulcis (Orange) Fruit Extract', 'Citrus Medica Limonum (Lemon) Fruit Extract', 'Acer Saccharum (Sugar Maple) Extract', '*Malva Sylvestris (Mallow) Leaf Extract']"
+The Clean Slate,La Bella Figura,cleansers,"
+
+          $60.00
+        
+","['*theobroma grandiflorum (cupuacu) butter', '*Camellia Oleifera (Camellia) Seed Oil', '*Vitis Vinifera (Grape) Seed Oil', 'Cetearyl Olivate (and) Sorbitan Olivate (Wax Derived From Olives)', 'Decyl Glucoside (Plant Source)', '*Citrus Limon (Lemon) Kernel Oil', 'Coriandrum Sativum (Coriander) Seed Oil CO2', 'Vetiveria Zizanioides (Vetiver) Oil CO2', '*Citrus Aurantium Var. Amara (Orange) Blossom Extract', 'Arnica Montana (Flower) Extract CO2']"
+COQ-10 Toner,Indie Lee,toners,"
+
+          $34.00
+        
+","['Aqua', 'Aloe Vera Leaf Juice', 'Ubiquinone (Coenzyme Q10)', 'Sodium Hyaluronate (Hyaluronic Acid)', 'Chamomile', 'Sage', 'Papaya Leaf Extract', 'Cucumber Fruit Extract', 'Citrus Aurantium Flower Oil', 'Propanediol', 'Ethylhexylglycerin', 'Potassium Sorbate']"
+Hydrating Accelerator,Josh Rosebrook,toners,"
+
+          $35.00
+        
+","['*Aloe Vera Leaf Juice', '*Jojoba Oil', '*Marula Oil', '*Evening Primrose Oil', '*Hemp Seed Oil', '*Borage Oil', '*Sweet Almond Oil', '*Grape Seed Oil', '*Sesame Seed Oil', '*Seabuckthorn Essential Oil', '*Goji Fruit Extract', '*Ashwagandha', '*Calendula', '*Black Cohosh', '*Dandelion Extract', '*Fo Ti Root Extract', '*Alfalfa', '*Bilberry', '*Rosemary', 'Turmeric', '*Elderberry', '*Raspberry Leaf Extract', '*Burdock', '*Chamomile', '*Rose Hips', '*Eye Bright Herb Extract', '*Beet Root Extract', ""*St. John's Wort Extract"", '*Hawthorn Berry', '*Chickweed', '*Licorice Root Extract', '*Coriander', '*Horse Chestnut Extract', '*Lavender', '*Red Clover', '*Olive Leaf Extract', '*Sage Extract', '*Thyme', '*Vitamin E', '*Guar Gum Extract', '*Acacia Arabica Gum', '**Xanthan Gum', '**Potassium Sorbate', '*Vanilla Extract', '*Ylang Ylang Oil', '*Rosmarinus Officinalis Leaf (Rosemary Essential Oil)', '*Eucalyptus Leaf Oil', '*Bergamot Essential Oil', '*Carrot Seed Oil']"
+Toning Mist: Balance + Prime,Follain,toners,"
+
+          $18.00
+        
+","['Water/Aqua/Eau', 'Aloe Barbadensis Leaf Juice', '1,2-Hexanediol', 'Pentylene Glycol', 'Rosa Damascena Flower Water', 'Chamomilla Recutita (Matricaria) Flower Extract', 'Rosa Canina Fruit Extract', 'Moringa Oleifera Leaf Extract', 'Ubiquinone (CoQ10)', 'Cryptomeria Japonica Branch/Leaf Extract', 'Macrocystis Pyrifera (Kelp) Extract', 'Glycerin', 'Citrus Limon (Lemon) Peel Extract', 'Butylene Glycol', 'Galactoarabinan', 'Sodium PCA', 'Tetrasodium Glutamate Diacetate', 'Sodium Benzoate', 'Xanthan Gum', 'Potassium Sorbate', 'Citric Acid']"
+Essential Face Wipes – Bag of 20,Ursa Major,toners,"
+
+          $24.00
+        
+","['*Aloe Barbadensis (Aloe Vera) Leaf Juice', 'Water/Aqua/Eau', 'Leuconostoc/Radish Root Ferment Filtrate', 'Rosmarinus Officinalis (Rosemary) Leaf/ Flower Water', 'Salix Nigra (Willow) Bark Extract', '*Hamamelis Virginiana (Witch Hazel) Pulp Water', '*Glycerin', 'Sodium Hyaluronate', 'Levulinic Acid', 'Sodium Levulinate', 'Vaccinium Myrtillus (Bilberry) Fruit/Leaf Extract', 'Saccharum Officinarum (Sugar Cane) Extract', 'Acer Saccharum (Sugar Maple) Extract', 'Citrus Aurantium Dulcis (Orange) Fruit Extract', 'Citrus Limon (Lemon) Fruit Extract', '*Oryza Sativa (Rice) Seed Extract', '*Camellia Sinensis (Green tea) Leaf Extract', 'Betula Alba (Birch) Sap', 'Lactobacillus/Arundinaria Gigantea (Bamboo)Ferment Filtrate', 'Caprylyl/Capryl Wheat Bran/Straw Glycosides', 'Fusel Wheat Bran/Straw Glycosides', 'Polyglyceryl-5 Oleate', 'Sodium Cocoyl Glutamate', 'Glyceryl Caprylate', 'Olea Europaea (Olive) Leaf Extract', '*Pseudotsuga Menziesii (Fir) Needle Oil', '*Lavandula Angustifolia (Lavender) Flower Oil', 'Rosmarinus Officinalis (Rosemary) Leaf Oil', '*Pelargonium Graveolens (Geranium) Leaf/Flower Oil', 'Boswellia Carterii (Frankincense) Resin Extract', 'Leuconostoc Ferment Filtrate', 'Propanediol', 'Soybean Peroxidase', 'Superoxide Dismutase', 'Citric Acid', 'Potassium Sorbate', 'Alcohol', 'Linalool', 'Citronellol', 'Geraniol', 'Limonene']"
+4-in-1 Face Tonic,Ursa Major,toners,"
+
+          $26.00
+        
+","['*Aloe Barbadensis Leaf Juice', 'Aqua/Water/Eau', 'Leuconostoc/Radish Root Ferment Filtrate', 'Salix Nigra (Willow) Bark Extract', 'Rosmarinus Officinalis (Rosemary) Leaf Water', '*Hamamelis virginiana leaf water', 'Glycerin', 'Sodium Hyaluronate', 'Levulinic Acid', 'Sodium Levulinate', 'Saccharum Officinarum (Sugar Cane) Extract', 'Citrus limon (lemon) fruit oil', 'Citrus Aurantium Dulcis (Orange) Fruit Extract', 'Vaccinium myrtillus fruit extract', 'Acer Saccharum (Sugar Maple) Extract', '*Camellia sinensis leaf extract', '*Oryza sativa (rice) extract', 'Betula alba juice', 'Lactobacillus/Arundinaria Gigantea Ferment Filtrate', 'Caprylyl/Capryl Wheat Bran/Straw Glycosides', 'Sodium Cocoyl Glutamate', 'Glyceryl Caprylate', 'Olea Europaea (Olive) Leaf Extract', '*Pseudotsuga menziesii branch/leaf oil', '*Lavandula angustifolia flower oil', 'Rosmarinus Officinalis Leaf Oil', '*Pelargonium graveolens leaf oil', 'Boswellia carterii resin extract', 'Alcohol', 'Propanediol', 'Leuconostoc Ferment Filtrate', 'Soybean Peroxidase', 'Superoxide Dismutase', 'Citric Acid', 'Potassium Sorbate', 'Linalool', 'Citronellol', 'Geraniol', 'Limonene']"
+Bulgarian Rose Water,Tammy Fender,toners,"
+
+          $65.00
+        
+","['*Rosa Centifolia (Rose) Flower Water', 'Rosa Damascene (Rose) Oil', 'Rosa Centifolia (Rose) Oil', 'Leuconostoc/Radish Root Ferment Filtrate', 'Lactobacillus', 'Cocos Nucifera (Coconut) Fruit Extract', 'Caprylyl/Capryl Glucoside']"
+Jasmine Green Tea Balancing Toner,Herbivore Botanicals,toners,"
+
+          $39.00
+        
+","['Jasminum Officinale (Jasmine) Flower Water', 'Aloe Barbadensis Leaf Water', 'Hamamelis Virginiana (Witch Hazel) Flower Water', 'Salix Alba (Willow) Bark Extract', 'Glycerin/Zingiber Officinale (Ginger) Root Extract', 'Leuconostoc/ (Leucidal) Radish Root Ferment Fillrate', 'Jasminum Grandiflorum (Jasmine) Flower Extract', 'Citrus Aurantium Bergamia (Bergamot) Fruit Oil', 'Camellia Sinensis leaf Extract (Green Tea)', 'Avena (Oat Avenanthramide) sativa Kernel Extract', 'Potassium Sorbate', 'Melia Azadirachta Leaf Extract']"
+The Jasmine Garden,May Lindstrom,toners,"
+
+          $70.00
+        
+","['Colloidal Silver', '*Hamamelis Virginiana (Witch Hazel) Water', 'Jasminum Grandiflorum (Jasmine) Flower Extract', 'Jasminum Officinale (Jasmine) Extract', '*Rosa Damascena (Bulgarian) Flower Oil', '*Cananga Odorata (Ylang-Ylang) Oil', '*Vanilla Planifolia Fruit Extract', 'Theobroma Cacao (Cocoa) Extract']"
+Active Treatment Essence,Vintner's Daughter,toners,"
+
+          $225.00
+        
+","['Aloe Barbadensis Leaf Juice (Aloe)', 'Malpighia Emarginata (Acerola) Fruit Extract', 'Moringa Oleifera Seed Extract', 'Althea Officinalis (Marshmallow) Root Extract', 'Glycyrrhiza Glabra (Licorice) Root Extract', 'Centella Asiatica (Gotu Kola) Extract', 'Urtica Dioica (Nettle) Leaf Extract', 'Ginkgo Biloba (Maidenhair Tree) Leaf Extract', 'Taraxacum Officinale (Dandelion) Root Extract', 'Helichrysum Italicum (Curry Plant) Extract', 'Camellia Sinensis (Green Tea) Leaf Extract', 'Medicago Sativa (Alfalfa) Leaf Extract', 'Astragalus Membranaceus (HuÃ¡Ng QÃ\xad) Root Extract', 'Verbascum Thapsus (Mullein) Flower/Stem/Leaf Extract', 'Bacillus Ferment', 'Lactic Acid', 'Arginine', '(Apple Cider) Vinegar', 'Avena Sativa (Oat) Bran Extract', 'Niacinamide (Vitamin B3)', 'Glycerin', 'Terminalia Ferdinandiana (Kakadu Plum) Extract', 'Cocos Nucifera (Coconut) Extract', 'Saccharide Isomerate', 'Pyrus Malus (Apple) Fruit Extract', 'Chlorella Vulgaris (Microalgae) Extract', 'Maltodextrin', 'Origanum Majorana (Marjoram) Leaf Extract', 'Gluconolactone', 'Muriella Aurantiaca (Microalgae) Oil', 'Lecithin', 'Ruttnera Lamellosa (Microalgae) Oil', 'Watanabea Reniformis Oil', 'Sodium Ascorbate', 'Papain (Papaya Enzyme)', 'Bromelain', 'Argemone Mexicana Callus (Poppy) Extract', ""Mirabilis Jalapa Callus (Four O'Clock Flower) Extract"", 'Polianthes Tuberosa Callus Extract', 'Sodium Phytate', 'Sodium Hydroxide', 'Levulinic Acid', 'Sodium Benzoate', 'Potassium Sorbate']"
+Hydrating Tonic,Kari Gran,toners,"
+
+          $38.00
+        
+","['*Aloe Barbadensis Miller (Aloe Vera Leaf)', '**Glycerin (Vegetable)', 'Lavandula Hybrida (Lavender) Oil or Rosa Damascena (Rose) Oil']"
+Hydrating Floral Essence,Tata Harper,toners,"
+
+          $94.00
+        
+","['Citrus Aurantium Amara (Neroli) Distillate', '*Lavandula Angustifolia (Lavender) Flower', '*Rosa Damascena Flower Water', 'Aqua/Water/Eau', 'Leuconostoc Ferment Filtrate', 'Propanediol', 'Sodium Hyaluronate', 'Calcium Ketogluconate', 'Anigozanthos Flavidus Extract', 'Banksia Serrata Flower Extract', 'Grevillea Speciosa Flower Extract', 'Saccharide Isomerate', 'Beta Vulgaris/Beet Root Extract/Extrait De Racine De Betterave', 'Glycerin', 'Sodium Phytate', 'Citric Acid', 'Phenethyl Alcohol', 'Sodium Citrate', 'Hydrolyzed Corn Starch', 'Alcohol']"
+Vitamin D Moisture Mist,One Love Organics,toners,"
+
+          $39.00
+        
+","['*Aloe Barbadensis Leaf Juice', 'Aqua/Water/Eau', 'Lactobacillus Ferment', 'Carthamus Tinctorius (Safflower) Oleosomes', 'Microcrystalline Cellulose', 'Glycerin', '*rhododendron ferrugineum extract', '*Lentinus Edodes Extract', '*Oryza Sativa (Rice) Extract', 'Rose Extract', 'Pelargonium Graveolens Oil', 'Caprylic/ Capric Triglyceride', 'Sodium Anisate', 'Levulinic Acid', 'Cellulose Gum', 'Sodium Levulinate', 'Sodium Phytate', 'Potassium Sorbate']"
+Essential C Tonic,Tammy Fender,toners,"
+
+          $55.00
+        
+","['*Lavandula Angustifolia (Lavender) Flower Water', 'Citrus Aurantium Bergamia (Bergamot) Peel Water', 'Aloe Barbadensis Leaf Juice (Aloe)', 'Citrus Bergamia Oil', 'Lavandula Angustifolia (Lavender) Oil', 'Glycerin', 'Iris Germanica Root Extract', 'Panax Ginseng Root Extract', 'Vitis Vinifera (Grape) Fruit Extract', 'Citrus Paradisi (Grapefruit) Fruit Extract', 'Ananas Sativus (Pineapple) Fruit Extract', 'Hibiscus Sabdariffa (Hibiscus) Flower Extract', 'Lavandula Hybrida Oil', 'Potassium Sorbate', 'Sodium Benzoate', 'Caprylyl/Capryl Glucoside']"
+Ultra Hyaluronic Beauty Mist,Mychelle,toners,"
+
+          $8.00
+        
+","['Water', 'Glycerin', 'Sodium Hyaluronate', 'Gluconolactone', 'Sodium Benzoate', 'Calcium Gluconate', 'Caprylyl/Capryl Glycosides', 'Sodium Cocoyl Glutamate', 'Polyglyceryl-5 Oleate', 'Glyceryl Caprylate', 'Citric Acid', 'Sodium Citrate', 'Potassium Sorbate', 'Sodium PCA', 'Aniba Rosaeodora Wood (Rosewood) Oil', 'Globularia Cordifolia Callus Culture Extract', 'Tripeptide-29', 'Opuntia Ficus-Indica Stem Extract', 'Glycyrrhiza Glabra (Licorice) Root Extract', 'Marrubium Vulgare Extract', 'Niacinamide (Vitamin B3)', 'Citrus Paradisi (Pink Grapefruit) Peel Oil', 'Jasminum Grandiflorum (Jasmine) Oil', 'Squalane Oil']"
+Roman Chamomile Tonic,Tammy Fender,toners,"
+
+          $60.00
+        
+","['*Anthemis Nobilis (Chamomile) Flower Water', 'Caprylyl/Capryl Glucoside', 'Potassium Sorbate', 'Sodium Benzoate']"
+Moisturizer: Replenish + Protect,Follain,moisturizers,"
+
+          $32.00
+        
+","['Water/Aqua/Eau', 'Glycerin', 'Aloe Barbadensis Leaf Juice', 'Rosa Damascena Flower Water', ' Simmondsia Chinensis (Jojoba) Seed Oil', 'Caprylic/Capric Triglyceride', 'Cetearyl Olivate', 'Pentylene Glycol', 'Dicaprylyl Ether', 'Butyrospermum Parkii (Shea) Butter', 'Glyceryl Stearate', 'Hydrogenated Vegetable Glycerides', 'Sorbitan Olivate', 'Cocos Nucifera (Coconut) Oil', 'Theobroma Cacao (Cocoa) Seed Butter', 'Palmitoyl Tripeptide-38', 'Bakuchiol', 'Sodium Hyaluronate', 'Moringa Oleifera Seed Oil', 'Rosa Canina Fruit Oil', 'Moringa Oleifera Leaf Extract', 'Squalane', 'Macrocystis Pyrifera (Kelp) Extract', 'Citrus Limon (Lemon) Peel Extract', 'Candelilla Cera/Euphorbia Cerifera (Candelilla) Wax/Cire de Candelilla', 'Glyceryl Caprylate', 'Xanthan Gum', 'Sodium Hydroxide', 'Citric Acid', 'Caprylhydroxamic Acid', 'Olive Oil Decyl Esters', 'Hydroxypropyl Cyclodextrin', 'Tocopherol', 'Potassium Sorbate', 'Sodium Benzoate']"
+Squalane Facial Oil,Indie Lee,moisturizers,"
+
+          $34.00
+        
+",['Squalane Oil (Olive derived)']
+Golden Hour Recovery Cream,Ursa Major,moisturizers,"
+
+          $48.00
+        
+","['Aloe Barbadensis (Aloe Vera) Leaf Juice', 'Helianthus Annuus (Sunflower) Seed Oil', 'Glyceryl Stearate Citrate', 'Cetearyl Alcohol', 'Leuconostoc/Radish Root Ferment Filtrate', 'Glycerin', 'Limnanthes Alba (Meadowfoam) Seed Oil', 'Galactoarabinan', 'Cetyl Palmitate', 'Undecylenic Glycerides', 'Octyldodecanol', 'Ribes Nigrum (Black Currant) Seed Oil', 'Helianthus Annuus (Sunflower) Seed Oil Unsaponifiables', 'Cardiospermum Halicacabum Flower/Leaf/Vine Extract', 'Tocopherol', 'Rosmarinus Officinalis (Rosemary) Leaf Extract', 'Hippophae Rhamnoides (Sea Buckthorn) Fruit Extract', 'Santalum Spicatum (Sandalwood) Wood Oil', '*Rosa Damascena (Rose) Flower Oil', 'Citrus Aurantium Amara (Neroli) Flower Oil', 'Cymbopogon Martinii (Palmarosa) Leaf Oil', 'Calendula Officinalis (Calendula) Flower Extract', 'Sodium Phytate', 'Sodium Anisate', 'Glyceryl Caprylate', 'Sclerotium Gum', 'Xanthan Gum', 'Alcohol', 'Citric Acid']"
+Rosehip BioRegenerate Oil,Pai,moisturizers,"
+
+          $44.00
+        
+","['*Rosa Canina Seed Extract - Rosehip Seed Extract', '*Rosa Canina Fruit Extract', 'Tocopherol - Natural Vitamin E', '*Rosmarinus Officinalis Leaf Extract']"
+Active Botanical Serum,Vintner's Daughter,moisturizers,"
+
+          $185.00
+        
+","['Vitis Vinifera (Grape) Seed Oil', 'Corylus Avellana (Hazelnut) Oil', 'Citrus Aurantium Var Bergamia (Bergamot) Peel Oil', 'Persea Americana (Avocado) Oil', 'Calendula Officinalis (Marigold)', 'Rose Damascena (Rose) Absolute', 'Daucus Carota (Carrot) Seed Oil', 'Oenothera Biennis (Evening Primrose) Oil', 'Rosa Rubignosa (Rosehip) Seed Oil', 'Citrus Limon (Lemon) Peel', 'Lavandula X Intermedia (Lavender) Flower', 'Medicago Sativa (Alfalfa) Extract', 'Urtica Dioica (Nettle) Leaf', 'Taraxacum Officinale (Dandelion) Leaf', 'Boswellia Carteri (Frankincense) Oil', 'Citrus Aurantium Var Amara (Neroil) Flower Oil', 'Rosmarinus Officinalis (Rosemary) Leaf Extract', 'Hippophae Rhamnoides (Sea Buckthorn) Fruit', 'Curcuma Longa (Tumeric) Root Oil,', 'Cupressus Se']"
+Fortifying Face Balm,Ursa Major,moisturizers,"
+
+          $36.00
+        
+","['*Aloe Barbadensis Leaf Juice', 'Aqua/Water/Eau', 'Glycerin', '*Helianthus annuus (sunflower) seed oil', 'Caprylic/Capric Triglyceride', 'Leuconostoc/Radish Root Ferment Filtrate', 'Hamamelis virginiana leaf water', 'Salix Nigra (Willow) Bark Extract', '*Aleurites moluccana seed oil', '*Hydrolyzed myrtus communis leaf extract', '*Opuntia ficus-indica stem extract', 'Daucus Carota Sativa (Carrot) Seed Oil', 'Hydrogenated Lecithin', 'Betula alba juice', 'Olea Europaea (Olive) Leaf Extract', '*Lavandula angustifolia (lavender) flower oil', 'Citrus Aurantifolia (Lime) Peel Oil', '*Melaleuca quinquenervia (niaouli) oil', 'Boswellia Carterii (Frankincense) Resin Extract', 'Bisabolol', 'Mentha Spicata (Spearmint)', 'Chondrus Crispus (Carrageenan)', 'Glucose', '*Rosmarinus officinalis (rosemary) leaf extract', 'Propanediol', 'Xanthan Gum', 'Sodium Anisate', 'Sclerotium Gum', 'Alcohol', 'Citric Acid', 'Sodium Benzoate', 'Potassium Sorbate', 'Limonene', 'Linalool', 'Citral']"
+Vital Balm Cream,Josh Rosebrook,moisturizers,"
+
+          $45.00
+        
+","['*Beeswax', '*Vanilla C02 Essential Oil', '*Calendula Extract', '*Aloe Vera Leaf Juice', '*Mango Seed Butter', '*Honey', '*Indian Senna Seed Extract (Botanical Hyaluronic Acid)', '*Shea Butter', '*Olive Fruit Oil', '*Avocado Oil', '*Jojoba Oil', '**Borage Seed Oil', '*Evening Primrose Oil', '*Sea Buckthorn Oil', '*Vitamin E', '*Broccoli Seed Oil', '*Witch Hazel', '*Ashwagandha', '*Turmeric', '*Rose Hip Seed Oil', '*Goji Fruit Extract', '*Black Cohosh', '*Elderberry', '*Bladderwrack', '*Marshmallow Root', '*Ginger Root', '*Fenugreek', '*Chickweed', '*Licorice Root Extract', '*Raspberry Leaf Extract', '*Dandelion Extract', '*Sage Extract', '*Eye Bright Herb Extract', '*Milk Thistle', '*Rose Blossoms', ""*St. John's Wort Extract"", '*Cats Claw', '*Cinnamon', '*Lavender', '*Ginkgo Leaf', '*Acacia Arabica Gum', 'Xanthan Gum', 'Potassium Sorbate', '*Blue Tansy Flower Oil', '*Ylang Ylang Oil', '*Lavender Oil']"
+Intensive Repair Balm,Tammy Fender,moisturizers,"
+
+          $130.00
+        
+","['*Helichrysum Italicum Flower Water', '*Rosa Centifolia (Rose) Flower Water', '*Calendula Officinalis (Marigold) Flower Water', 'Glycerin', 'Stearyl Olivate (Olive)', 'Silybum Marianum Ethyl Ester (Milk Thistle)', '*Helianthus Annuus (Sunflower) Seed Oil', 'Glyceryl Stearate', 'Rosa Mosqueta (Rosehip) Fruit Oil', 'Nucifera Nelumbo (Lotus) Leaf Wax', 'Castor Isostearate Succinate', 'Himanthalia Elongata (Brown Algae) Extract', 'Nasturtium Officinale (Watercress) Extract', 'Octyl Dodecanol (Olive)', 'Beeswax (Cera Alba)', '*Persea Gratissima, (Avocado) Oil', '*Anthemis Nobilis (Chamomile)', 'Helichrysum Italicum (Helichrysum) Oil', 'Lilium Candidum (White Lily) Flower Extract', 'Glycolipids', 'Lavandula Officinalis (Lavender) Oil', 'Glyceryl Polyacrylate', 'Cetearyl Alcohol', 'Sodium Lauroyl Lactylate', 'Lecithin', 'Ethylhexylglycerin', 'Sclerotium Gum (Mushroom)', 'Benzyl Alcohol', 'Tocopherol']"
+Nutrient Day Cream SPF 30,Josh Rosebrook,moisturizers,"
+
+          $85.00
+        
+","['*Aloe Vera Leaf Juice', '*Shea Butter', '*Evening Primrose Oil', '*Hemp Seed Oil', '*Jojoba Oil', '*Saponified Borage Oil', '*Sweet Almond Oil', 'Grape Seed Oil', '*Sesame Seed Oil', '*Seabuckthorn Essential Oil', 'Zinc Oxide', '*Soy Lecithin', '*Calendula Extract', '*Bilberry Fruit Extract', '*Chamomile', '*Burdock', '*Rosemary', '*Fennel Essential Oil', '*Dandelion Extract', '*Rose Hips', '*Catnip', '*Chickweed', '*Neem Leaf', '*Skullcap', '*Ginkgo Leaf', '*Linden Flower Extract', '*Hawthorn Berry', '*Green Tea', '*Flax', '*Nettle', '*Clary Sage', '*Marshmallow Root', '*Cayenne Pepper', '*Ginseng', '*Peppermint Essential Oil', ""*St. John's Wort Extract"", '*Alfalfa Extract', '*Vitamin E', '*Candelilla Wax', '*Guar Gum Extract', '*Acacia Arabica Gum', '**Xanthan Gum', '**Potassium Sorbate', '*Benzoin']"
+Blemish Balm,OSEA,moisturizers,"
+
+          $48.00
+        
+","['Aqua', '*Gigartina Skottsbergii Algae', '*Macrocystis Pyrifera Algae', '*Undaria Pinnatifida Extract', '*Vitis Vinifera (Grape) Seed Oil', 'Caprylic/ Capric Triglyceride', '*Glycerin', 'Propaediol', 'Cetearyl Olivate', '*Simmondsia Chinensis Oil (Jojoba Seed Oil)', 'Sorbitan Olivate', '*Melaleuca Alternifolia (Tea Tree) Leaf Oil', 'Saccharomyces/Copper Ferment', '*Rosmarinus Officinalis (Rosemary) Leaf Oil', 'Saccharomyces/Manganese Ferment', '*Lavandula Angustifolia (Lavender) Essential Oil', 'Saccharomyces/Zinc Ferment', '*Juniperus Communis (Juniper) Leaf Essential Oil', 'Glyceryl Stearate', 'Thymus Vulgaris Essential Oil', 'Cetearyl Alcohol', '*Cupressus Sempervirens (Cypress) Essential Oil', 'Stearic Acid', '*Citrus Grandis (Grapefruit) Peel Oil', 'Sodium Lauroyl Glutamate', 'Xanthan Gum', 'Guar Gum', 'Citric Acid', 'Lonicera Caprifolium Extract', 'Lonicera Japonica Extract']"
+Chamomile & Rosehip Calming Day Cream,Pai,moisturizers,"
+
+          $60.00
+        
+","['Aqua - Purified Water', '*Prunus Armeniaca Kernel Oil - Apricot Kernel Oil', '*Simmondsia Chinensis Seed Oil - Jojoba Oil', '*Carthamus Tinctorius Seed Oil', 'Lactobacillus Ferment - Skin Conditioner', 'Cetearyl Alcohol - Naturally Derived Emulsifier', 'Glycerin - Organic Derived Vegetable Glycerine', 'Rosa Canina Seed Extract - Rosehip Seed Extract', '*Butyrospermum Parkii Butter', '*Citrus Aurantium Dulcis Fruit Water - Orange Fruit Water', 'Cetearyl Glucoside - Naturally Derived Emulsifier', '*Chamomilla Recutita (Matricaria) Flower Extract', 'Leptospermum Scoparium Branch/Leaf Oil - Manuka Oil', 'Sodium Levulinate -Naturally Derived Preservative', 'Tocopherol - Natural Vitamin E', '*Lavandula Angustifolia Oil', 'Sodium Anisate -Naturally Derived Preservative', '*Pelargonium Graveolens Oil', 'Lactic Acid - Ph Regulator', 'Sodium Stearoyl Glutamate - Naturally Derived Emulsifier', '*Rosmarinus Officinalis Leaf Extract', '**Citronellol', '**Geraniol', '**Linalool']"
+Skin Food Original Ultra-Rich Moisturizer,Weleda,moisturizers,"
+
+          $19.00
+        
+","['Aqua', 'Helianthus Annuus Seed Oil', 'Lanolin', 'Prunus Amygdalus Dulcis Oil', 'Cera Alba', 'Alcohol', 'Fatty Acid Ester', 'Glycerin', 'Limonene', 'Viola Tricolor Extract', 'Hydrolyzed Beeswax', 'Sorbitan Olivate', 'Rosmarinus Officinalis Leaf Extract', 'Chamomilla Recutita Flower Extract', 'Calendula Officianalis Extract', 'Arginine', 'Zinc Sulfate', '*Parfum', '*Linalool', '*Geraniol', '*Citral', '*Coumarin']"
+Atmosphere Protection Cream,OSEA,moisturizers,"
+
+          $48.00
+        
+","['Aqua', '*Algae Extract', 'Coco Caprylate/Caprate', '*Macadamia Ternifolia (Macadamia) Seed Oil', 'Sorbitan Olivate', 'Cetearyl Glucoside', '*Butyrospermum Parkii (Shea Butter)', '*Simmondsia Chinensis (Jojoba) Seed Oil', '*Persea Gratissima Oil (Avocado Oil)', 'Tocopherol (Vitamin E/Vitamine E)', '*Calendula Officinalis Extract', 'L-lysine Lauroyl Methionate', 'Xanthan Gum', 'Laminaria Digitata Extract', '*Chamomilla Recutita Flower Extract', '*Lavandula Angustifolia (Lavender) Oil', '*Pelargonium (Geranium) Gravolens', 'Magnesium Aluminum Silicate', 'Citrus Grandis (Grapefruit) Peel Oil', 'Potassium Sorbate', 'Glycine']"
+Skin Food Light Nourishing Cream,Weleda,moisturizers,"
+
+          $19.00
+        
+","['Aqua', '(Sunflower) Helianthus Annuus Seed Oil', 'Glycerin', 'Alcohol', 'Glyceryl Stearate Citrate', 'Cera Alba', 'Theobroma Cacao Seed Butter', 'Cetearyl Alcohol', 'Butyrospermum Parkii Butter', 'Viola Tricolor Extract', 'Rosmarinus Officinalis Leaf Extract', 'Chamomilla Recutita Flower Extract', 'Calendula Officinalis (Calendula) Flower Extract', 'Lanolin', 'Carrageenan', 'Xanthan Gum', 'Lactic Acid', 'Glyceryl Caprylate', '*Parfum', '*Linalool', '*Geraniol', '*Citral']"
+Daily Sheer Facial Sunscreen SPF 40 – Fragrance Free,Babo Botanicals,moisturizers,"
+
+          $21.00
+        
+","['Titanium Dioxide', 'Zinc Oxide', '*Aloe Vera Leaf Juice', 'Rose Hip Fruit Oil', 'Green Tea', '*Sunflower Seed Oil', 'Myristyl Alcohol', 'Myristyl Glucoside', 'Cetearyl Alcohol', 'Coco Glucoside', 'Wheat Protein, Hydrolyzed', 'Hydrogenated Glyceryl Abietate', '*Castor Oil', '*Beeswax', 'Persea Gratissima Oil (Avocado Oil)', 'Phenethyl Alcohol', 'Ethylhexylglycerin', 'Pongamia Pinnata Seed Oil', '*Shea Butter', '*Jojoba Oil', 'Hydroxyethyl Acrylate', 'Sodium Acryloyl Dimethyl Taurate Copolymer', 'Glycerin', 'White Tea Extract', 'Rose Flower Extract', 'Triethoxycaprylylsilane', 'Aluminum Hydroxide', 'Hydrogen Dimethicone', 'Dehydroxanthan Gum']"
+Three Sixty Five SPF 28,Kari Gran,moisturizers,"
+
+          $48.00
+        
+","['Non-Nano Zinc Oxide', 'Red Raspberry Seed Oil', 'Plum Oil', '*Macadamia Nut Oil', 'Kukui Nut Oil', '*Avocado Oil', '*Jojoba Oil', '*Beeswax', 'Tocopherol']"
+Tinted Nutrient Day Cream SPF 30,Josh Rosebrook,moisturizers,"
+
+          $95.00
+        
+","['Zinc', '*Aloe Vera Leaf Juice', '*Shea Butter', '*Evening Primrose Oil', '*Hemp Seed Oil', '*Jojoba Oil', '*Borage Seed Oil', '*Almond Oil', '*Grape Seed Oil', '*Sesame Seed Oil', '*Olive Fruit Oil', '*Seabuckthorn Essential Oil', '*Broccoli Seed Oil', '*Calendula Extract', '*Bilberry Fruit Extract', '*Chamomile', '*Great Burdock Root Extract', '*Rosemary Extract', '*Fennel Essential Oil', '*Dandelion Extract', '*Rose Hip Fruit Oil', '*Catnip', '*Chickweed', '*Neem Leaf', '*Skullcap', '*Ginkgo Leaf', '*Linden Flower Extract', '*Hawthorn Berry', '*Green Tea Leaf', '*Flax', '*Nettle', '*Sage Extract', '*Marshmallow Root', '*Cayanne', '*Ginseng', '*Peppermint', ""*St. John's Wort Extract"", '*Alfalfa Extract', '*Vitamin E', 'Candelilla Wax', 'Guar Gum Extract', 'Acacia Arabica Gum', 'Xanthan Gum', 'Potassium Sorbate', 'Mica', '*Benzoin', 'Carrot Seed Oil']"
+Blue Cocoon,May Lindstrom,moisturizers,"
+
+          $180.00
+        
+","['*Camellia Oleifera Seed Oil', '**Butyrospermun Parkii (Shea) Butter', '**Theobroma Cacao Seed Butter', '**Sclerocarya Birrea (Marula) Seed Oil', '*Adansonia Digitata (Baobab) Oil', '*Tanacetum Annuum (Blue Tansy) Oil', '***Commiphora Myrrha (Myrrh) Oil', '*Lavandula Angustifolia (Lavender) Oil', '***Boswellia Serrate Gum (Frankincense) Oil', '*Pelargonium Graveolens (Geranium Rose) Oil', '*Vanilla Planifolia (Vanilla) CO2 Oil', 'Schisandra Sphenanthera CO2 Fruit Extract', '*Helichrysum Italicum (Immortelle) Oil', 'Ravensara Aromatica Oil', '****Linalool', '****Citronellol', '****Geraniol', '****Limonene']"
+Essential Hydrating Oil,OSEA,moisturizers,"
+
+          $68.00
+        
+","['*Macadamia Nut Oil', '*Sesame Seed Oil', '*Jojoba Oil', 'Bergamot Oil', 'Cedar Leaf Oil', '*Lavender Oil', 'Geranium Essential Oil', '*Lemon Peel Oil', 'Clary Oil', '*Anthemis Nobilis (Chamomile)', 'Rosewood Essential Oil', 'Tocopherol']"
+Daily Sheer Tinted Facial Mineral Sunscreen SPF 30 – Natural Glow,Babo Botanicals,moisturizers,"
+
+          $21.00
+        
+","['Active Ingredients: Titanium Dioxide 6.00% Sunscreen', 'Zinc Oxide 6.00% Sunscreen', '*Inactive Ingredients: Aloe Barbadensis Leaf (Aloe Vera Gel) Juice', 'Aqua (Deionized Water)', 'Argania spinosa (Argan) Oil', '*Beeswax', '*Organic Butyrospermum Parkii (Shea) Butter', 'C13-14 Alkyls Benzoate', '*Organic Camellia Sinensis (Green Tea) Extract', 'Caryodendron Orinocense (Kahai) Oil', 'Caprylic/Capric Triglyceride', '*Organic Cocos Nucifera (Coconut) Oil', 'Cucumis Sativus (Cucumber) Extract', 'Decyl Glucoside', '*Glycerin', 'Glyceryl Caprylate', 'Glyceryl Stearate Citrate', 'Glyceryl Stearate', 'Glyceryl Undecylenate', '*Organic Helianthus Annuus (Sunflower) Oil', 'Hippophae Rhamnoides (Sea Buckthorn) Oil', 'Hyaluronic Acid - Hydrating Agent', 'Iron Oxides', 'Lecithin', 'Mangifera Indica (Mango) Butter', '*Organic Punica Granatum (Pomegranate) Extract', '*Organic Rosmarinus Officinalis (Rosemary) Oil', 'Saccharide Isomerate', 'Sodium Polyacrylate', 'Stearic Acid', 'Vitamin E (Tocopherol)', 'Xanthan Gum', 'Zemea (Corn) Propanediol']"
+Advanced Protection Cream,OSEA,moisturizers,"
+
+          $108.00
+        
+","['Aqua', '*Algae Extract', 'Dipalmitoyl Hydroxyproline (Amino Acid Compound)', 'Coco Caprylate/Caprate', 'Cetearyl Glucoside', 'Squalane (Olive)', '*Glycerin', '*Aloe Barbadensis (Aloe Vera) Leaf Juice', '*Macadamia Ternifolia (Macadamia) Seed Oil', '*Vitis Vinifera Seed (Grapeseed) Oil', '*Simmondsia Chinensis Seed (Jojoba) Seed Oil', 'Capryloyl Glycine', 'Vitamin E (Tocopherol)', '*Persea Gratissima (Avocado) Oil', 'Chondrus Crispus', 'Undecylenoyl Glycine', 'Glycine', '*Calendula Officinalis Flower Extract', '*Anthemis Nobilis Flower (Chamomile) Extract', 'Potassium Ascorbyl Tocopheryl Phosphate', '*Citrus Medica Limonum (Lemon) Peel Oil', 'Xanthan Gum']"
+Nourishing Lavender Milk,Farmaesthetics,moisturizers,"
+
+          $42.00
+        
+","['*Soy Oil', 'Marigold Extract', 'Hamamelis Virginiana (Witch Hazel)', 'Lavandula Angustifolia Oil - Lavender Oil', 'Cera Alba (Beeswax)', 'Vegetable Lecithin', 'Borax', 'Xanthan Gum']"
+Resurfacing Serum,Tata Harper,moisturizers,"
+
+          $88.00
+        
+","['*Hordeum Vulgare Leaf Juice', 'Propanediol', 'Aqua/Water', 'Silybum Marianum Ethyl Ester', 'Galactoarabinan', 'Glycerin', 'Salix Alba (Willow) Bark Extract', 'Cetearyl Olivate', 'Simmondsia Chinensis (Jojoba Seed) Oil', 'Squalane Oil', 'Sorbitan Olivate', 'cupuacu butter glycerides', 'Isopropyl Shea Butterate', 'Lactobacillus Ferment', 'Leuconostoc Ferment Filtrate', 'Solanum Lycopersicum (Tomato) Fruit Extract', 'L (+) Lactic Acid', 'Vaccinium Myrtillus Fruit/Leaf Extract', 'Saccharum Officinarum (Sugar Cane) Extract', 'Citrus Aurantium Dulcis (Orange) Fruit Extract', 'Citrus Limon (Lemon) Fruit Extract', 'Acer Saccharum (Sugar Maple) Extract', 'Citric Acid', 'Terminalia Ferdinandiana Fruit Extract', 'Lithospermum Erythrorhizon Root Extract', '*Hippophae Rhamnoides (Sea Buckthorn) Oil', '*Plukenetia Volubilis Seed Oil', 'Saccharide Isomerate', 'Tasmannia Lanceolata Fruit/Leaf Extract', '*Arnica Montana (Arnica) Extract', '*Borago Officinalis (Borage) Leaf Extract', '*Calendula Officinalis (Calendula) Flower Extract', '*Medicago Sativa (Alfalfa) Extract', '*Spiraea Ulmaria (Meadowsweet) Extract', 'Sambucus Nigra Fruit Extract', '*Olea Europaea (Olive) Oil', 'Tocopherol', 'Caprylic/Capric Triglyceride', 'Cetyl Palmitate', 'Sorbitan Palmitate', 'Sclerotium Gum', '**Aroma', 'Sodium Phytate', 'Sodium Citrate', 'Mica', 'Alcohol', 'Ci 77891', 'Ci 77491', 'Citral', 'Limonene', 'Linalool', 'Geraniol', 'Benzyl Benzoate']"
+The Youth Dew,May Lindstrom,moisturizers,"
+
+          $140.00
+        
+","['*Persea Gratissima (Avocado) Oil', '*Limnanthes Alba (Meadowfoam) Seed Oil', '*Olea Europaea (Olive) Fruit Oil', 'Prunus Domestica (Plum Kernel) Oil', '*Simmondsia Chinensis (Jojoba) Oil', '*Hippophae Rhamnoides (Sea Buckthorn) Fruit Oil', '*Rosa Canina (Rosehip) Fruit Oil', '*Punica Granatum (Pomegranate) Oil', '*Calophyllum Inophyllum (Tamanu) Seed Oil', '*Borago Officinalis (Borage) Seed Oil', 'Aleurites Moluccans (Kukui Nut) Oil', '*Oenothera Biennis (Evening Primrose) Oil', '*Pelargonium Graveolens (Geranium Rose) Oil', '*Citrus Paradisi (Grapefruit) Peel Oil', '*Citrus Sinensis (Sweet Orange) Oil', '*Citrus Limon (Lemon) Oil', '*Rosa Centifolia Flower Extract', '*Rosa Damascena (Bulgarian Rose) Oil', '*Citrus Aurantium (Neroli) Oil', '**Daucus Carota Sativa (Carrot) Seed Oil', 'Ubiquinone (Coenzyme Q10)', '***Limonene', '***Citronellol', '***Geraniol', '***Linalool', '***Citral', '***Eugenol']"
+Nourish Night Balm,Organic Bath Co.,moisturizers,"
+
+          $32.00
+        
+","['*Organic Shea Butter', 'Mango Butter', '*Organic Jojoba Oil', '*Organic Rosehip Oil', '*Organic Prickly Pear Seed Oil', '*Organic Tamanu Oil', '*Green Coffee Oil']"
+Skin Dew Coconut Water Cream,One Love Organics,moisturizers,"
+
+          $58.00
+        
+","['*Aloe Barbadensis Leaf Juice', 'Water/Aqua/Eau', '*Cocos Nucifera (Coconut) Fruit Juice', 'Caprylic/ Capric Triglyceride', '*Helianthus Annuus (Sunflower) Seed Oil', 'Cetearyl Alcohol', 'Jojoba Esters (Beads)', '*Theobroma Grandiflorum (Cupuacu) Seed Butter', 'Helianthus Annuus (Sunflower) Oil', 'Xylitylglucoside', 'Cetearyl Glucoside', 'Citrullus Vulgaris (Watermelon) Seed Oil', 'Cocos Nucifera (Coconut) Pulp Extract', 'Laminaria Ochroleuca Extract', 'Acacia Decurrens Flower Cera/Wax', 'Tocopherol', 'Glycerin', 'Sclerotium Gum', 'Xylitol', 'Polyglycerin-3', 'Glyceryl Caprylate', 'Levulinic Acid', 'Sodium Levulinate', 'Anhydroxlitol', 'Phytic Acid', 'Sodium Anisate', 'Maltodextrin']"
+Lavender Protective Moisturizer SPF 17,Naturopathica,moisturizers,"
+
+          $64.00
+        
+","['Active Ingredient: Zinc Oxide 7.02%', 'Inactive Ingredients: Aqua (Water)', 'Caprylic/Capric Triglyceride', 'Cetearyl Olivate', 'Glycerin', 'Cyclopentasiloxane', 'Sorbitan Olivate', 'Squalane (Olive)', 'Triticum Vulgare (Wheat) Germ Oil', 'Olea Europaea (Olive) Fruit Oil', 'Simmondsia Chinensis Seed (Jojoba) Seed Oil', 'Xanthan Gum', 'Magnesium Aluminum Silicate', '1,2-Hexanediol', 'Glyceryl Isostearate', 'Caprylyl Clycol', 'Alcohol Denat.', 'Populus Tremuloides Bark Extract', 'Leuconostoc/Radish Root Ferment Filtrate', 'Citric Acid', 'Polyhydroxystearic Acid', 'Tocopheryl Acetate (D-alpha)', 'Lavandula Angustifolia (Lavender) Oil', 'Beta-Glucan (D)', 'Gluconolactone', 'Phytic Acid', 'Potassium Sorbate', 'Lonicera Caprifolium (Honeysuckle) Flower Extract', 'Lonicera Japonica (Honeysuckle) Flower Extract', 'Cinnamomum Camphora (Camphor) Bark Oil', 'Hamamelis Virginiana (Witch Hazel) Water', 'Tropolone', 'Glycine Soja (Soybean) Oil', 'Tocotrienols', 'Elaeis Guineensis (Palm) Oil', 'Alcohol', 'Tocopherol (D-alpha)', 'Tetrahydrodiferuloylmethane', 'Tetrahydrodemethoxydiferuloylmethane', 'Tetrahydrobisdemethoxydiferuloylmethane']"
+Capillary Strengthening Blend,Tammy Fender,moisturizers,"
+
+          $80.00
+        
+","['*Sunflower Seed (Helianthus Annuus) Oil', 'Grapeseed (Vitis Vinifera) Oil', 'Apricot Kernal (Prunis Armeniaca)', '*Rose Hip Seed (Rosa Mosqueta) Oil', '*Black Currant (Ribesnigrum)', 'Pure Essential Oils of Chamomile (Anthemis Nobilis)', 'Bois De Rose (Aniba Roseodora)', 'Neroli (Citrus Aurantium)', 'Rose (Rosa Damascena)', 'Carrot (Daucus Carota) Seed']"
+Force Field Daily Defense Lotion with SPF 18,Ursa Major,moisturizers,"
+
+          $54.00
+        
+","['Zinc Oxide (Non-Nano, 10%)', '*Aloe Barbadensis (Aloe Vera) Leaf Juice', 'Caprylic/Capric Triglyceride', 'Glycerin', 'Butyrospermum Parkii (Shea) Butter*', 'Gluconolactone', '*Squalane', 'Citric Acid', 'Glyceryl Stearate', 'Sorbitan Stearate', '*Helianthus Annuus (Sunflower) Seed Oil', '*Simmondsia Chinensis (Jojoba) Seed Oil', 'Cetyl Alcohol', 'Sodium Benzoate', 'Cetearyl Glucoside', 'Cetearyl Alcohol', 'Rosa Damascena Leaf Cell Extract', 'Malus Domestica Callus Extract', 'Argemone Mexicana Callus Extract', 'Sclerotium Gum', 'Lysolecithin', 'Pullulan', 'Xanthan Gum', 'Sodium Hyaluronate', 'Sodium Phytate']"
+Illuminating Moisturizer,Tata Harper,moisturizers,"
+
+          $126.00
+        
+","['*Aloe Barbadensis Leaf Juice', 'Aqua/Water', 'Shea Butter Ethyl Esters', '*Carthamus Tinctorius (Safflower) Oleosomes', 'Caprylic/Capric/Triglyceride', 'Mangifera Indica (Mango) Butter', 'Glycerin', '*Rosa Damascena Flower Water', '*Simmondsia Chinensis (Jojoba) Seed Oil', '*Olea Europaea (Olive) Oil', 'Cetearyl Olivate', 'Leuconostoc Ferment Filtrate', '*Oryza Sativa (Rice) Extract', 'Mel/Honey', 'Lactobacillus/Arundinaria Gigantea Ferment Filtrate', 'Theobroma Cacao (Cocoa Seed) Butter', 'Hyaluronic Acid - Hydrating Agent', 'Sodium Hyaluronate', 'Diamond Powder', 'Lavandula Stoechas (Spanish Lavender) Extract', 'Salix Alba (Willow) Bark Extract', '*Arnica Montana (Arnica) Extract', '*Borago Officinalis (Borage) Leaf Extract', '*Medicago Sativa (Alfalfa) Extract', '*Spiraea Ulmaria Flower Extract', '*Calendula Officinalis (Calendula) Flower Extract', 'Sambucus Nigra Fruit Extract', 'Menyanthes Trifoliata (Buckbean) Flower Extract', 'Leuconostoc/Radish Root Ferment Filtrate', 'Sorbitan Olivate', 'Sclerotium Gum', 'Cetyl Palmitate', 'Sorbitan Palmitate', 'Propanediol', 'Sodium Phytate', 'Superoxide Dismutase', 'Soybean Peroxidase', 'Mica', 'Iron Oxide (C.I. 77891, C.I. 77491)', '**Aroma', 'Citral', 'Citronellol', 'Eugenol', 'Geraniol', 'Limonene', 'Linalool']"
+Antioxidant Crème,Tammy Fender,moisturizers,"
+
+          $95.00
+        
+","['Water', 'Glycerin', 'Stearyl Olivate', 'Silybum Marianum Ethyl Ester (Milk Thistle)', 'Glyceryl Stearate', '*Helianthus Annuus (Sunflower) Oil', 'Triolein', 'Cetearyl Alcohol', '*Daucus Carota Sativa (Carrot) Seed Water', '*Lavandula Angustifolia (Lavender) Flower Water', '*Rosa Damascena (Rose) Flower Water', 'Nelumbo Nucifera (Lotus) Flower Wax', 'Castor Isostearate Succinate', 'Butyrospermum Parkii (Shea) Butter', 'Octyl Dodecanol (Olive)', 'Beeswax', '*Persea Gratissima (Avocado) Oil', 'Rosa Canina Fruit Oil', 'Rubia Tinctorum Root Extract', 'Adansonia Digitata (Baobab) Pulp Extract', 'Hibiscus Sabdariffa (White Hibiscus) Flower Extract', 'Citrus Reticulata (Mandarin) Peel Oil', 'Citrus Aurantium Flower Oil', 'Pelargonium Graveolens (Rose Geranium) Flower Oil', 'Prunus Armeniaca (Apricot) Fruit Extract', 'Lilium Candidum (White Lily) Flower Extract', 'Althaea Officinalis (Marshmallow) Root Extract', 'Malva Sylvestris (Mallow) Flower Extract', 'Sodium Stearoyl Lactylate', 'Glycolipids', 'Glyceryl Polyacrylate', 'Citrus Aurantium Dulcis (Sweet Orange) Oil', 'Ethylhexylglycerin', 'Benzyl Alcohol', 'Tocopherol']"
+Essential Balm,Kari Gran,moisturizers,"
+
+          $60.00
+        
+","['*Camellia Oleifera (Camellia Seed) Oil', '*Rosa Canina Fruit (Rosehip Seed) Oil', '*Helianthus Annuus (Sunflower) Oil', '*Simmondsia Chinensis (Jojoba) Oil', '*Beeswax', 'Persea Gratissima (Avocado) Oil', '*Prunus Amygdalus Dulcis (Sweet Almond) Oil', '*Olea Europaea (Olive) Oil', '*Calendula Officinalis Extract', '*Arnica Montana (Arnica) Extract', '*Hippophae Rhamnoides (Sea Buckthorn) Extract', '*Lavandula Hybrida (Lavender) Oil', 'Wildharvested Boswellia Sacra (Frankincense) Oil', 'Rosa Damascena (Rose) Oil', 'Jasminum Sambac (Jasmine) Oil', '*Cananga Odorata (Ylang Ylang) Oil', '**Tocopherol (Vitamin E from Sunflower)']"
+Lapis Face Oil,Herbivore Botanicals,moisturizers,"
+
+          $72.00
+        
+","['Olive Squalane Oil', 'Simmondsia Chinensis (Jojoba Seed) Oil', 'Capric Triglycerides (Fractionated Coconut Oil)', 'Aleurites Moluccana (Kukui) Nut Oil', 'Tocopherol', 'Tanacetum annuum (Blue Tansy) Leaf Oil', 'Jasminum Sambac (Jasmine) Absolute', 'Rosa Damascena (Moroccan Rose) Absolute']"
+Italian Red Mandarin & Rose Facial Cream,Pangea Organics,moisturizers,"
+
+          $40.00
+        
+","['*Aloe Barbadensis (Aloe Vera) Leaf Juice', 'Purified Water (Aqua)', 'Prunus Amygdalus Dulcis (Sweet Almond) Oil', 'Caprylic/Capric Triglyceride', 'Potato Starch Modified', 'Myristic Acid', 'Glyceryl Stearate SE', 'Stearic Acid', 'Glycerin (Vegetable)', 'Cetearyl Wheat', 'Straw Glycosides', 'Cetearyl Alcohol (Plant Wax)', 'Saccharide Isomerate', 'Avena Sativa (Oat) Bran Extract', 'Citrus Aurantium Dulcis (Orange) Peel Extract', 'Gluconolactone', 'Sodium Benzoate', 'Oenothera Biennis (Evening Primrose) Oil', '*Butyrospermum Parkii (Shea) Butter', '*Helianthus Annuus (High Oleic Sunflower Seed) Oil', 'Ethyl Ascorbic Acid', 'Rosa Damascena (Rose) Flower Oil', 'Citrus Nobilis (Mandarin) Peel Oil', 'Citrus Aurantium Dulcis (Orange) Peel Oil', 'Cymbopogon Martini (Palmarosa)Oil', 'Vitis Vinifera (Grape) Seed Oil', 'Sodium Hyaluronate', 'Phytic Acid', '*Argania Spinosa (Argan) Kernel Oil', 'Viola Odorata (Sweet Violet) Leaf Extract', 'Calendula Officinalis Flower Extract', 'Foeniculum Vulgare (Fennel) Seed Extract', 'Equisetum Arvense (Horsetail) Leaf Extract', 'Althaea Officinalis (Marshmallow) Root Extract', 'Trifolium Pratense (Clover) Flower Extract', 'Ascorbic Acid (Vitamin C)']"
+"Nigerian Ginger, Lavender, & Thyme Facial Cream",Pangea Organics,moisturizers,"
+
+          $40.00
+        
+","['*Aloe Barbadensis (Aloe Vera) Leaf Juice', 'Purified Water (Aqua)', 'Glyceryl Stearate SE', 'Prunus Amygdalus Dulcis (Sweet Almond) Oil', 'Vitis Vinifera (Grape) Leaf Extract', 'Caprylic/Capric Triglyceride', 'Glycerin (Vegetable)', 'Avena Sativa (Oat) Bran Extract', 'Citrus Aurantium Dulcis (Orange) Peel Extract', 'Gluconolactone', 'Sodium Benzoate', '*Butyrospermum Parkii (Shea) Butter', 'Saccharide Isomerate', 'Ethyl Ascorbic Acid', 'Hydroxyethylcellulose', 'Oenothera Biennis (Evening Primrose) Oil', 'Cucurbita Pepo (Pumpkin) Seed Oil', '*Helianthus Annuus (High Oleic Sunflower Seed) Oil', 'Tocopheryl Acetate (Vitamin E)', '*Lecithin', '*Argania Spinosa (Argan) Kernel Oil', 'Lavandula Angustifolia (Lavender) Oil', 'Thymus Vulgaris (Thyme) Oil', 'Zingiber Officinalis (Ginger) Root Oil', 'Phytic Acid', 'Sodium Hyaluronate', 'Xanthan Gum', 'Potassium Sorbate', 'Viola Odorata (Blue Violet) Leaf Extract', 'Calendula Officinalis Flower Extract', 'Sambucus Nigra (Elder) Flower Extract', 'Lavandula Angustifolia (Lavender) Flower/Leaf/ Stem Extract', 'Melissa Officinalis Leaf Extract', 'Glycyrrhiza Glabra (Licorice) Root Extract', 'Trifolium Pratense (Clover) Flower Extract']"
+Retinoic Nutrient Face Oil,Tata Harper,moisturizers,"
+
+          $132.00
+        
+","['Rosa Rubiginosa Seed Oil', '*Olea Europaea (Olive) Oil', '*Simmondsia Chinensis (Jojoba) Seed Oil', '*Prunus Armeniaca (Apricot) Kernel Oil', '**Aroma', 'Sambucus Nigra Fruit Extract', '*Borago Officinalis (Borage) Leaf Extract', '*Calendula Officinalis (Calendula) Flower Extract', '*Medicago Sativa (Alfalfa) Extract', '*Arnica Montana (Arnica) Extract', '*Tilia Europaea (Linden) Leaf & Flower Extract', 'Benzyl Alcohol', 'Citral', 'Citronellol', 'Eugenol', 'Farnesol', 'Geraniol', 'Limonene', 'Linaloolne', 'Linalool']"
+Creme Riche,Tata Harper,moisturizers,"
+
+          $195.00
+        
+","['*Hordeum Vulgare Leaf Juice', 'Cetyl Alcohol', 'Glycerin', 'Lactobacillus/Arundinaria Gigantea Ferment Filtrate', 'Shea Butter Ethyl Esters', 'Cetearyl Alcohol', 'Jojoba Esters (Beads)', 'Glyceryl Stearate', 'Simmondsia Chinensis (Jojoba) Seed', 'Linoleic Acid', 'Aqua/Water', '*Astrocaryum Murumuru Seed Butter', 'Candelilla Cera/Euphorbia Cerifera (Candelilla) Wax/Cire de Candelilla', 'Glyceryl Undecylenate', 'Propanediol', 'Cetearyl Glucoside', 'Beta Vulgaris/Beet Root Extract/Extrait De Racine De Betterave', 'Hydrolyzed Avocado Protein', 'Calcium Ketogluconate', 'Caesalpinia Spinosa fruit extract', 'Kappaphycus Alvarezii Extract', 'Linolenic Acid', 'Acer Rubrum Bark Extract', 'Cassia Alata Leaf Extract', 'Lavandula Stoechas (Spanish Lavender) Extract', 'Dunaliella Salince (Algae) Extract', 'Hyaluronic Acid - Hydrating Agent', 'Sodium Hyaluronate', 'Salix Alba (Willow) Bark Extract', '*Camellia Oleifera Seed Oil', '*Camellia Sinensis (Green Tea) Seed Oil', '*Olea Europaea (Olive) Oil', '*Carthamus Tinctorius (Safflower) Oleosomes', 'Jania Rubens Extract', '*Arnica Montana (Arnica) Extract', '*Spiraea Ulmaria (Meadowsweet) Extract', '*Borago Officinalis (Borage) Leaf Extract', '*Medicago Sativa (Alfalfa) Extract', '*Spiraea Ulmaria (Meadowsweet) Extract', '*Calendula Officinalis (Calendula) Flower Extract', 'Sambucus Nigra Fruit Extract', 'Tocopherol', 'Squalane Oil', 'Caprylic/Capric Triglyceride', 'Saccharide Isomerate', 'Acacia Senegal Gum', 'Glyceryl Caprylate', 'Xanthan Gum', 'Hydrolyzed Corn Starch', 'Maltodextrin', '**Aroma', 'Citric Acid', 'Sodium Citrate', 'Citral', 'Citronellol', 'Eugenol', 'Geraniol', 'Limonene', 'Linalool']"
+Spontaneous Recovery Creme,Tammy Fender,moisturizers,"
+
+          $165.00
+        
+","['*Helichrysum Italicum (Helichrysum) Flower Water', '*Calendula Officinalis (Marigold) Flower Water', '*Lavandula Officinalis (Lavender) Water', '*Olea Europaea (Olive) Fruit Oil', '*Helianthus Annuus (Sunflower) Seed Oil', 'Stearyl Olivate (Olive)', 'Octyl Dodecanol (Olive)', 'Cetearyl Alcohol', 'Cetearyl Glucoside', '*Persea Gratissima (Avocado) Oil', 'Beeswax', 'Silybum Marianum Ethyl Ester (Milk Thistle)', 'Glycerin', 'Behenyl Olivate (Olive)', 'Cetyl Alcohol', 'Sclerotium Gum (Mushroom)', 'Cetyl Phosphate', 'Stearyl Alcohol', 'Helichrysum Italicum (Helichrysum) Oil', 'Lavandula Officinalis (Lavender) Oil', 'Anthemis Nobilis (Chamomile) Flower Oil', 'Prunus Armeniaca (Apricot) Kernel Oil', 'Sambucus Nigra (Elderberry) Flower Extract', 'Lilium Candidum (White Lily) Flower Extract', 'Iris Florentina (Iris) Root Extract', 'Vitis Vinifera (Grape) Leaf Extract', 'Nucifera Nelumbo (Lotus) Leaf Wax', 'Glycolipids', 'Chamomilla Recutita (Matricaria) Flower Extract', 'Decyl Glucoside', 'Mauritia Flexuosa (Buriti) Fruit Oil', 'Leuconostoc/Radish Root Ferment Filtrate', 'Lactobacillus', 'Cocos Nucifera (Coconut) Fruit Extract']"
+Carrot Seed Soothing Facial Oil,Naturopathica,moisturizers,"
+
+          $64.00
+        
+","['*Helianthus Annuus (Sunflower) Seed Oil', '*Oenothera Biennis (Evening Primrose) Seed Oil', '*Daucus Carota (Carrot) Seed Oil', '*Simmondsia Chinensis (Jojoba) Seed', '*Daucus Carota (Carrot) Root Extract', '*Rosa Damascena (Rose) Flower Oil', 'Cananga Odorata (Ylang Ylang) Flower Oil', '*Lavandula Angustifolia (Lavender) Flower Oil', '*Rosmarinus Officinalis (Rosemary) Leaf Extract']"
+Quench My Thirst Moisturizer,27 Rosiers,moisturizers,"
+
+          $52.00
+        
+","['Water/Eau/Aqua', 'Caprylic/Capric Triglyceride', 'Glycerin', 'Betaine', 'C12-16 Alcohols', 'Arachidyl Alcohol', 'Orobanche Rapum Extract', 'Withania Somnifera Root Extract', 'Aloe Barbadensis (Aloe Vera) Leaf Juice', 'Calendula Flower Extract', 'Chamomilla Recutita Flower Extract', 'Oryza Sativa (Rice) Bran Extract', 'Rosmarinus Officinalis (Rosemary) Leaf Extract', 'Helianthus Annuus (Sunflower) Extract', 'Fructose', 'Saccharide Isomerate', 'Xanthan Gum', 'Sodium Hyaluronate', 'Trehalose', 'Tocopherol', 'Palmitic Acid', 'Arachidyl Glucoside', 'Caprylyl Glycol', 'Hydrogenated Lecithin', 'Propanediol', 'Behenyl Alcohol', 'Pentylene Glycol', 'Acrylates/C10-30 Alkyl Acrylate Crosspolymer', 'Potassium Hydroxide', 'Ethylhexylglycerin', 'Citric Acid', 'Potassium Sorbate', 'Sodium Benzoate', 'Fragrance/Parfum']"
+Hyaluronic Gel Moisturizer,Tata Harper,moisturizers,"
+
+          $116.00
+        
+","['*Hordeum Vulgare Leaf Juice', 'Glycerin', 'Propanediol', 'Aqua/Water/Eau', '*Cocos Nucifera (Coconut) Oil', 'Shea Butter Ethyl Esters', 'Fructooligosaccharides', 'Polyglyceryl-2 Stearate', '*Lavandula Angustifolia (Lavender) Flower/Leaf/Stem Water', '*Rosa Damascena Flower Water', 'Salvia Hispanica Seed Extract', 'Hyaluronic Acid', 'Sodium Hyaluronate', 'Musa Sapientum Flower Extract', 'Salicornia Herbacea Extract', 'Biosaccharide gum-1', 'Saccharide Isomerate', 'Carthamus Tinctorius (Safflower) Oleosomes', '*Camellia Oleifera Seed Oil', 'Tremella Fuciformis Sporocarp Extract', 'Anigozanthos Flavidus Extract', 'Banksia Serrata Flower Extract', 'Grevillea Speciosa Flower Extract', '*Arnica Montana (Arnica) Extract', '*Borago Officinalis (Borage) Leaf Extract', '*Calendula Officinalis (Calendula) Flower Extract', '*Medicago Sativa (Alfalfa) Extract', '*Spiraea Ulmaria (Meadowsweet) Extract', 'Magnolia Officinalis Bark Extract', 'Beta Vulgaris/Beet Root Extract/Extrait De Racine De Betterave', 'Squalane', 'Jojoba Esters', 'Sambucus Nigra Fruit Extract', 'Tocopherol', 'Myrica Cerifera Fruit Wax', '*Olea Europaea (Olive) Oil', 'Helianthus Annuus Seed Oil', 'Glyceryl Caprylate', 'Glyceryl Stearate', 'Glyceryl Undecylenate', 'Stearyl Alcohol', 'Lysolecithin', 'Sodium Levulinate', 'Caprylic/Capric Triglyceride', 'Sodium Anisate', 'Xanthan Gum', 'Sclerotium Gum', 'Pullulan', 'Sodium Phytate', 'Phenethyl Alcohol', 'Sodium Citrate', 'Citric Acid', 'Silica', 'Alcohol', '**Aroma', 'Linalool', 'Citronellol', 'Citral', 'Benzyl Benzoate', 'Benzyl Alcohol', 'Geraniol', 'Limonene', 'Eugenol', '(Apple Cider) Vinegar']"
+Pure Organic Barbary Fig Seed Oil,La Bella Figura,moisturizers,"
+
+          $90.00
+        
+",['*100% Pure Opuntia Ficus Indica (Cold Pressed Organic Barbary Fig Seed) Oil*']
+Avocado & Jojoba Hydrating Day Cream,Pai,moisturizers,"
+
+          $55.00
+        
+","['*Simmondsia Chinensis Seed Oil - Jojoba Oil', '*Persea Gratissima Oil (Avocado Oil)', '*Carthamus Tinctorius Seed (Safflower) Oil', 'Cetearyl Glucoside - Naturally Derived Emulsifier', 'Glycerin - Organic Derived Vegetable Glycerine', '*Borago Officinalis Seed Oil', '*Butyrospermum Parkii Butter', '*Pelargonium Graveolens Oil', '*Litsea Cubeba Fruit Oil', '*Jasminum Grandiflorum (Jasmine) Flower Extract', 'Tocopherol - Natural Vitamin E', '*Helianthus Annuus Seed Oil', 'Sodium Levulinate - Naturally Derived Preservative', 'Sodium Anisate - Naturally derived Preservative', 'Glyceryl Stearate Citrate - Naturally Derived Emulsifier', 'Sodium Lauroyl Lactylate - Naturally Derived Preservative', 'Lactic Acid - Ph Regulator', '**Citral', '**Citronellol', '**Geraniol', '**Limonene', '**Linalool']"
+Crema Supernova Day Cream,La Bella Figura,moisturizers,"
+
+          $85.00
+        
+","['Aloe Barbadensis (Aloe Vera) Leaf Juice', 'Rosa Damascena (Rose) Flower Distillate', 'Calendula Officinalis (Calendula) Distillate', '*theobroma grandiflorum (cupuacu) butter', 'Cetearyl Olivate (and) Sorbitan Olivate (Wax Derived From Olives)', 'Cetyl Esters', 'Plukenetia Volubilis (Sacha Inchi) Seed Oil', '*Passiflora Incarnata (Maracuja) Seed Oil', 'Terminalia Ferdinandiana (Kakadu Plum) Cell Extract', 'Sodium Hyaluronate', 'Leuconostoc Ferment Filtrate (Radish Root) Extract', '*Opuntia Ficus (Barbary Fig) Seed Oil', 'Carapa Guianensis (Andiroba) Fruit Extract', '*Glycrrhiza Glabra (Licorice Root) Extract', 'Opuntia Ficus-Indica (Barbary Fig) Extract', 'Lactobacillus/Wasabia Japonica Root Ferment Extract', 'Superoxide Dismutase', '*Helichrysum Italicum Oil', 'Arnica Montana (Arnica) Flower Oil CO2', '*Hippophae Rhamnoides (Seabuckthorn Fruit) Oil CO2', '*Olea Europea (Sicilian Extra Virgin Olive) Oil', 'Rosa Damascena (Rose Otto) Flower Oil', '*Tanacetum Annuum (Blue Tansy) Flower Oil', '*Xanthan Gum', 'Vegetable Glycerin (Non-GMO)']"
+Beauty Oil,RMS Beauty,moisturizers,"
+
+          $78.00
+        
+","['*Jojoba Oil', '*Rose Hip Seed Oil', ""St. John's Wort Extract"", '*Horsetail', '*Calendula Extract', '*Country Sarsaparilla', '*Ashwagandha', '*Licorice Root Extract', '*Olive Fruit Oil', 'Buriti Oil', '*Tamanu Seed Oil', 'Tocopherol', '*Vanilla Extract', 'Turmeric']"
+Rosehip BioRegenerate Oil,Pai,treatments-and-serums,"
+
+          $44.00
+        
+","['*Rosa Canina Seed Extract - Rosehip Seed Extract', '*Rosa Canina Fruit Extract', 'Tocopherol - Natural Vitamin E', '*Rosmarinus Officinalis Leaf Extract']"
+Active Botanical Serum,Vintner's Daughter,treatments-and-serums,"
+
+          $185.00
+        
+","['Vitis Vinifera (Grape) Seed Oil', 'Corylus Avellana (Hazelnut) Oil', 'Citrus Aurantium Var Bergamia (Bergamot) Peel Oil', 'Persea Americana (Avocado) Oil', 'Calendula Officinalis (Marigold)', 'Rose Damascena (Rose) Absolute', 'Daucus Carota (Carrot) Seed Oil', 'Oenothera Biennis (Evening Primrose) Oil', 'Rosa Rubignosa (Rosehip) Seed Oil', 'Citrus Limon (Lemon) Peel', 'Lavandula X Intermedia (Lavender) Flower', 'Medicago Sativa (Alfalfa) Extract', 'Urtica Dioica (Nettle) Leaf', 'Taraxacum Officinale (Dandelion) Leaf', 'Boswellia Carteri (Frankincense) Oil', 'Citrus Aurantium Var Amara (Neroil) Flower Oil', 'Rosmarinus Officinalis (Rosemary) Leaf Extract', 'Hippophae Rhamnoides (Sea Buckthorn) Fruit', 'Curcuma Longa (Tumeric) Root Oil,', 'Cupressus Se']"
+Brighten Up Vitamin C Serum,Ursa Major,treatments-and-serums,"
+
+          $54.00
+        
+","['*Aloe Barbadensis (Aloe Vera) Leaf Juice', '*Helianthus Annuus (Sunflower) Seed Oil', 'Glycerin', 'Cocoglucoside', 'Coconut Alcohol', 'Populus Tremuloides (Aspen) Bark Extract', 'Ascorbic Acid/Orange/Citrus Limon/Citrus Aurantifolia Polypeptide', '*Rosa Canina (Rosehip) Seed Extract', '*Butyrospermum Parkii (Shea) Nut Butter', 'Leontopodium Alpinum (Edelweiss) Meristem Cell Culture', 'Hydrogenated Lecithin', 'Glyceryl Caprylate', 'Sclerotium Gum', '*Rosa Damascena (Rose) Flower Oil', 'Citrus Sinensis (Blood Orange) Peel Oil', '*Rosmarinus Officinalis (Rosemary) Leaf Extract', 'Bisabolol', 'Sodium Anisate', 'Lactic Acid', 'Xanthan Gum']"
+The Gua Sha Facial Lifting Tool,Mount Lai,treatments-and-serums,"
+
+          $28.00
+        
+",[]
+Spotless Blemish Oil,Osmia,treatments-and-serums,"
+
+          $22.00
+        
+","['*Oenothera Biennis (Evening Primrose) Oil', '*Essential Oils Of: Lavandula Angustifolia (Lavender)', '*Melaleuca Leucadendra (Cajeput)', '*Citrus Limon (Lemon)', 'Petroselinum Sativum (Parsley Seed)', 'Thymus Zygis (Thyme)', 'Cupressus Sempervirons (Cypress)', '*Rosmarinus Officinalis (Rosemary) Co2 Extract']"
+Hyaluronic Sea Serum,OSEA,treatments-and-serums,"
+
+          $88.00
+        
+","['Aqua', '*Gigartina Skottsbergii Extract', '*Macrocystis Pyrifera Extract', '*Undaria Pinnatifida Extract', 'Sodium Hyaluronate', 'Hyaluronic Acid - Hydrating Agent', 'Potassium Sorbate', 'Citric Acid', 'Lonicera Caprifolium Extract', 'Lonicera Japonica Extract']"
+Blemish Lotion,Indie Lee,treatments-and-serums,"
+
+          $26.00
+        
+","['Water', 'Isopropyl Alcohol', 'Colloidal Sulfur', 'Zinc Oxide', 'Salicylic Acid', 'Magnesium', 'Aluminum Silicate', 'Camphor', 'Iron Oxide']"
+Blue Cocoon,May Lindstrom,treatments-and-serums,"
+
+          $180.00
+        
+","['*Camellia Oleifera Seed Oil', '**Butyrospermun Parkii (Shea) Butter', '**Theobroma Cacao Seed Butter', '**Sclerocarya Birrea (Marula) Seed Oil', '*Adansonia Digitata (Baobab) Oil', '*Tanacetum Annuum (Blue Tansy) Oil', '***Commiphora Myrrha (Myrrh) Oil', '*Lavandula Angustifolia (Lavender) Oil', '***Boswellia Serrate Gum (Frankincense) Oil', '*Pelargonium Graveolens (Geranium Rose) Oil', '*Vanilla Planifolia (Vanilla) CO2 Oil', 'Schisandra Sphenanthera CO2 Fruit Extract', '*Helichrysum Italicum (Immortelle) Oil', 'Ravensara Aromatica Oil', '****Linalool', '****Citronellol', '****Geraniol', '****Limonene']"
+The Rose Quartz Facial Roller,Mount Lai,treatments-and-serums,"
+
+          $38.00
+        
+",[]
+Advanced Plumping Serum,Patyka,treatments-and-serums,"
+
+          $110.00
+        
+","['*Rosa Damascena Flower Water', '*Citrus Aurantium Amara (Bitter Orange) Flower Water', 'Aqua (Water)', 'Diglycerin', 'Glycerin', 'Sodium Hyaluronate', 'Hydrolyzed Hyaluronic Acid', 'Sodium Levulinate', 'Benzyl Alcohol', 'Xanthan Gum', 'Chondrus Crispus (Carrageenan) Powder', 'Sodium Anisate', 'Citric Acid', 'Sodium Hydroxide', 'Hexapeptide-11', '*Avena Sativa (Oat) Kernel Extract', 'Tetrasodium Glutamate Diacetate', 'Glucose', 'Alteromonas Ferment Extract', 'Phenethyl Alcohol', 'Undaria Pinnatifida Extract', 'Dehydroacetic Acid', 'Linalool', 'Geraniol', 'Citronellol', 'Potassium Sorbate', 'Sodium Benzoate', 'Limonene', 'Salicylic Acid']"
+Resurfacing Serum,Tata Harper,treatments-and-serums,"
+
+          $88.00
+        
+","['*Hordeum Vulgare Leaf Juice', 'Propanediol', 'Aqua/Water', 'Silybum Marianum Ethyl Ester', 'Galactoarabinan', 'Glycerin', 'Salix Alba (Willow) Bark Extract', 'Cetearyl Olivate', 'Simmondsia Chinensis (Jojoba Seed) Oil', 'Squalane Oil', 'Sorbitan Olivate', 'cupuacu butter glycerides', 'Isopropyl Shea Butterate', 'Lactobacillus Ferment', 'Leuconostoc Ferment Filtrate', 'Solanum Lycopersicum (Tomato) Fruit Extract', 'L (+) Lactic Acid', 'Vaccinium Myrtillus Fruit/Leaf Extract', 'Saccharum Officinarum (Sugar Cane) Extract', 'Citrus Aurantium Dulcis (Orange) Fruit Extract', 'Citrus Limon (Lemon) Fruit Extract', 'Acer Saccharum (Sugar Maple) Extract', 'Citric Acid', 'Terminalia Ferdinandiana Fruit Extract', 'Lithospermum Erythrorhizon Root Extract', '*Hippophae Rhamnoides (Sea Buckthorn) Oil', '*Plukenetia Volubilis Seed Oil', 'Saccharide Isomerate', 'Tasmannia Lanceolata Fruit/Leaf Extract', '*Arnica Montana (Arnica) Extract', '*Borago Officinalis (Borage) Leaf Extract', '*Calendula Officinalis (Calendula) Flower Extract', '*Medicago Sativa (Alfalfa) Extract', '*Spiraea Ulmaria (Meadowsweet) Extract', 'Sambucus Nigra Fruit Extract', '*Olea Europaea (Olive) Oil', 'Tocopherol', 'Caprylic/Capric Triglyceride', 'Cetyl Palmitate', 'Sorbitan Palmitate', 'Sclerotium Gum', '**Aroma', 'Sodium Phytate', 'Sodium Citrate', 'Mica', 'Alcohol', 'Ci 77891', 'Ci 77491', 'Citral', 'Limonene', 'Linalool', 'Geraniol', 'Benzyl Benzoate']"
+Hydration Boost Concentrate,Josh Rosebrook,treatments-and-serums,"
+
+          $42.00
+        
+","['Aqua', '*Glycerin', '*Aloe Barbadensis (Aloe Vera) Leaf Juice', '*Senna Seed Extract', '*Aesculus Hippocastanum (Horse Chestnut Extract', '*White Peony Tea Leaf Extract', '*Camellia Sinensis (Green Tea) Leaf Extract', '*Burdock Seed Extract', '*Horsetail Extract', '*Cacao Extract', '*Chamomile Extract', '*Calendula Extract', '*Moringa Leaf Extract', '*Neem Leaf Extract', '*Arnica Extract', '*Echinacea Extract', 'Hibiscus Flower Acid', 'Phenethyl Alcohol', 'Ethylhexylglycerin', 'Leuconostoc/Radish Root Ferment Filtrate', '**Xanthan Gum']"
+The Mini Jade Facial Roller,Mount Lai,treatments-and-serums,"
+
+          $20.00
+        
+",[]
+Vitamin C15 Wrinkle Repair Serum,Naturopathica,treatments-and-serums,"
+
+          $118.00
+        
+","['Water/Aqua/Eau', 'Propanediol', 'Ascorbic Acid (Vitamin C)', 'Glycerin', 'Beta Glucan', 'Tocopherol', 'Cymbopogon Martini (Palmarosa)Oil', 'Caprylyl/Capryl Glucoside', 'Bisabolol', 'Allantoin', 'Sodium Hyaluronate', 'Anthemis Nobilis Flower Oil', 'Phenethyl Alcohol', 'Sodium Hydroxide', 'Acacia Senegal Gum', 'Xanthan Gum']"
+Active Moisture Vitamin C Serum,One Love Organics,treatments-and-serums,"
+
+          $75.00
+        
+","['*Simmondsia Chinensis (Jojoba) Seed Oil', '*Butyrospermum Parkii (Shea) Oil', '*Camellia Sinensis (Green Tea) Seed Oil', 'Caprylic/Capric Triglyceride', 'Limnanthes Alba (Meadowfoam) Seed Oil', 'Jojoba Esters', '*Adansonia Digitata (Baobab) Oil', 'Ascorbyl Palmitate', '*Rosa Canina (Rosehip) Oil', '*Malpighia Glabra (Acerola) Fruit Extract', '*Hippiphae Rhamnoides (Seabuckthorn) Berries', 'Haematococcus Pluvialis Extract', 'Humulus Lupulus (Hops) Strobile', 'Tocopherol', 'Rose Extract', '*Rosmarinus Officinalis (Rosemary) Leaf Extract', '*Helianthus Annus (Sunflower) Seed Oil']"
+Capillary Strengthening Blend,Tammy Fender,treatments-and-serums,"
+
+          $80.00
+        
+","['*Sunflower Seed (Helianthus Annuus) Oil', 'Grapeseed (Vitis Vinifera) Oil', 'Apricot Kernal (Prunis Armeniaca)', '*Rose Hip Seed (Rosa Mosqueta) Oil', '*Black Currant (Ribesnigrum)', 'Pure Essential Oils of Chamomile (Anthemis Nobilis)', 'Bois De Rose (Aniba Roseodora)', 'Neroli (Citrus Aurantium)', 'Rose (Rosa Damascena)', 'Carrot (Daucus Carota) Seed']"
+Back to Life Hydration Serum,Pai,treatments-and-serums,"
+
+          $78.00
+        
+","['Aqua - Purified Water', 'Glycerin - Vegetable Glycerin', 'Lactobacillus Ferment - Skin Conditioner', 'Cocos Nucifera (Coconut) Fruit Extract - Emollient', '*Simmondsia Chinensis Seed Oil - Jojoba Oil', 'Hyaluronic Acid - Hydrating Agent', 'Kunzea Pomifera Fruit Extract - Muntries Berry Extract', 'Syzygium Luehmannii Fruit Extract - Riberry Extract', 'Tasmannia Lanceolata Fruit Extract - Pepperberry Extract', 'Sodium Levulinate - Naturally Derived Preservative', 'Lysolecithin - Naturally Derived Emulsifier', 'Sclerotium Gum - Naturally Derived Thickener', 'Sodium Anisate - Naturally derived Preservative', 'Xanthan Gum - Xanthan Gum', 'Pullulan - Naturally Derived Film Former', '*Helianthus Annuus (Sunflower) Seed Oil', '*Jasminum Grandiflorum (Jasmine) Flower Extract', '*Litsea Cubeba Fruit Oil', '*Pelargonium Graveolens Oil', 'Lactic Acid - Ph Regulator', 'Tocopherol - Natural Vitamin E', 'Silica - Mineral Opacifier', '**Citral', '**Geraniol', '**Citronellol', '**Limonene', '**Linalool']"
+Active Treatment Essence,Vintner's Daughter,treatments-and-serums,"
+
+          $225.00
+        
+","['Aloe Barbadensis Leaf Juice (Aloe)', 'Malpighia Emarginata (Acerola) Fruit Extract', 'Moringa Oleifera Seed Extract', 'Althea Officinalis (Marshmallow) Root Extract', 'Glycyrrhiza Glabra (Licorice) Root Extract', 'Centella Asiatica (Gotu Kola) Extract', 'Urtica Dioica (Nettle) Leaf Extract', 'Ginkgo Biloba (Maidenhair Tree) Leaf Extract', 'Taraxacum Officinale (Dandelion) Root Extract', 'Helichrysum Italicum (Curry Plant) Extract', 'Camellia Sinensis (Green Tea) Leaf Extract', 'Medicago Sativa (Alfalfa) Leaf Extract', 'Astragalus Membranaceus (HuÃ¡Ng QÃ\xad) Root Extract', 'Verbascum Thapsus (Mullein) Flower/Stem/Leaf Extract', 'Bacillus Ferment', 'Lactic Acid', 'Arginine', '(Apple Cider) Vinegar', 'Avena Sativa (Oat) Bran Extract', 'Niacinamide (Vitamin B3)', 'Glycerin', 'Terminalia Ferdinandiana (Kakadu Plum) Extract', 'Cocos Nucifera (Coconut) Extract', 'Saccharide Isomerate', 'Pyrus Malus (Apple) Fruit Extract', 'Chlorella Vulgaris (Microalgae) Extract', 'Maltodextrin', 'Origanum Majorana (Marjoram) Leaf Extract', 'Gluconolactone', 'Muriella Aurantiaca (Microalgae) Oil', 'Lecithin', 'Ruttnera Lamellosa (Microalgae) Oil', 'Watanabea Reniformis Oil', 'Sodium Ascorbate', 'Papain (Papaya Enzyme)', 'Bromelain', 'Argemone Mexicana Callus (Poppy) Extract', ""Mirabilis Jalapa Callus (Four O'Clock Flower) Extract"", 'Polianthes Tuberosa Callus Extract', 'Sodium Phytate', 'Sodium Hydroxide', 'Levulinic Acid', 'Sodium Benzoate', 'Potassium Sorbate']"
+Rejuvenating Serum,Tata Harper,treatments-and-serums,"
+
+          $120.00
+        
+","['*Aloe Barbadensis Leaf Juice', 'Aqua/Water', 'Mangifera Indica (Mango) Butter', '*Rosa Damascena Flower Water', 'Caprylic/Capric Triglyceride', '*Olea Europaea (Olive) Oil', 'Galactoarabinan', 'Glycerin', 'Cetearyl Alcohol', '*Carthamus Tinctorius (Safflower) Oleosomes', '*Oryza Sativa (Rice) Extract', 'Cetearyl Olivate', '*Centella Asiatica (Gotu Kola)', 'Leuconostoc Ferment Filtrate', 'Cetearyl Glucoside', 'Sorbitan Olivate', '*Rosa Rubiginosa Seed Oil', 'Salix Alba (Willow) Bark Extract', 'Sclerotium Gum', 'Sodium Hyaluronate', 'Borago Officinalis (Borage) Leaf Extract', '*Medicago Sativa (Alfalfa) Extract', 'Pheonix Dactylifera (Date) Seed Extract', '*Arnica Montana (Arnica) Extract', 'Sodium Phytate', '*Spiraea Ulmaria Flower Extract', '*Tilia Europaea (Linden) Leaf/Flower Extract', '*Calendula Officinalis (Calendula) Flower Extract', 'Lavandula Stoechas (Spanish Lavender) Extract', 'Propanediol', '*Narcissus Tazetta (Daffodil) Bulb Extract', 'Sambucus Nigra Fruit Extract', 'Menyanthes Trifoliata (Buckbean) Flower Extract', '**Aroma', 'Citral', 'Citronellol', 'Eugenol', 'Geraniol', 'Limonene', 'Linalool']"
+The Problem Solver,May Lindstrom,treatments-and-serums,"
+
+          $100.00
+        
+","['Solum Fullonum (Fullerâ\x80\x99s Earth) Clay', 'Red Moroccan Rhassoul Clay', '*Theobroma Cacao (Raw Cacao)', 'Red Alaea Sea Salt (Sea Salt and Red Alaea)', 'L-Ascorbic Acid (Vitamin C)', 'Sodium Bicarbonate', 'Charcoal Powder (Activated Bamboo Carbon)', '**Vanilla Planifolia Bean', '**Lavandula Angustifolia (Lavender) Flower', '**Althaea Officinalis (Marshmallow) Root', '***Boswellia Serrate Gum (Frankincense) Powder', '**Centella Asiatica (Gotu Kola)', '**Archangelica (Angelica) Root', '*Cinnamomum Zealanicum Blum (Ceylon Cinnamon)', '**Myristica Fragans (Nutmeg)', '**Syzygium Aromaticum (Clove)', '**Curcuma Longa (Turmeric)', '**Capsicum Annuum (Cayenne) Pepper', '****Eugenol']"
+AHA Refining Night Serum,Naturopathica,treatments-and-serums,"
+
+          $54.00
+        
+","['Aloe Barbadensis (Aloe Vera) Leaf Juice', 'Aqua/Water/Eau', 'Glycolic Acid', 'Xanthan Gum', 'Chondrus Crispus (Carrageenan) Extract', 'Vaccinium Myrtillus (Bilberry) Fruit/Leaf Extract', 'Saccharum Officinarium (Sugar Cane) Extract/ Extrait de Canne a Sucre', 'Acer Saccharum (Sugar Maple) Extract', 'Citrus Aurantium Dulcis (Orange) Fruit Extract', 'Citrus Medica Limonum (Lemon) Fruit Extract']"
+Balance Facial Serum,Osmia,treatments-and-serums,"
+
+          $50.00
+        
+","['Olive Squalane', 'Caprylic/Capric Triglyceride (Fractionated Coconut Oil)', 'Aleurites Molaccana (Kukui) Oil', '*Carthamus Tinctorius (Safflower) Oil', '*Macadamia Integrifolia (Macadamia Nut) Oil', '*Rosa Rubiginosa (Rosehip) Seed Oil', '*Vitus Vinifera (Grapeseed) Oil', '*Butyrospermum Parkii (Shea) Oil', 'Schisandra Sphenanthera (Schisandra Fruit) Co2', 'Euterpe Oleracea (Acai) Oil', '*Osmia Balance Blend [Essential Oils Of Lavandula Angustifolia (Lavender)', '*Pelargonium X Asperum (Geranium)', '*Cananga Odorata (Ylang Ylang)', '*Anthemis Nobilis (Roman Chamomile)', 'Myrtus Communis (Green Myrtle)', '*Pelargonium Graveolens Var. Roseum (Rose Geranium)', '*Santalum Spicatum (Australian Sandalwood)', 'Saliva Sclarea (Clary Sage)]', '*Nigella Sativa (Black Cumin) Seed Oil', '*Rosmarinus Officinalis (Rosemary) Co2', 'Non-GMO Mixed Tocopherols']"
+Gentle Daily Peel,Indie Lee,treatments-and-serums,"
+
+          $65.00
+        
+","['Water (Aqua/Eau)', 'Alcohol Denat', 'Propanediol', 'Hammamelis Virginiana (Witch Hazel) Water', 'Salicylic Acid', 'Glycerin', 'Sophora Japonica Flower Extract', 'Jasminum Officinale (Jasmine) Flower', 'Citrus Reticulata (Tangerine) Fruit Extract', 'Arctium Lappa Root Extract', 'Microcitrus Australasica Fruit Extract', 'Potassium Hydroxide', '*Pentylene Glycol', '*Phenethyl Alcohol']"
+Modern Radiance Concentrate,La Bella Figura,treatments-and-serums,"
+
+          $155.00
+        
+","['*Aloe Barbadensis (Aloe Vera) Leaf Juice', '*Cocos Nucifera (Coconut) Fruit Juice', '*Opuntia Ficus (Barbary Fig) Seed Oil', 'Theobroma Grandiflorum (Cupuacu) Butter', 'Terminalia Ferdinandiana (Kakadu Plum) Cell Extract', '*Organic Centella Asiatica (Gotu Kola) Extract', '*Aronia Melanocarpa (Aronia Berry) Extract', '*Hippophae Rhamnoides (Seabuckthorn Fruit) Oil CO2', 'Ferulic Acid (Acid Derived From Plants)', '*Glycrrhiza Glabra (Licorice Root) Extract', 'Cucurbita Pepo (Pumpkin Seed) Extract', 'Oenothera Biennis (Evening Primrose Flower) Extract', '*Olea Europea (Olive) Leaf Extract', '*Helichrysum', '*Malva Sylvestris (Mallow) Extract', 'Bambusa Vulgaris (Bamboo) Extract', '*Persea Gratissima (Avocado) Fruit Extract', 'Coffea Arabica (Green Coffee) Bean Oil', 'Jasminum Officinale (Jasmine Flower) Oil', 'Leuconostoc Ferment Filtrate (Radish Root) Extract', '*Punica Granatum (Pomegranate) Seed Oil', '*Daucus Carota Sativa (Cold Pressed Virgin Carrot) Seed Oil', 'Zingiber Officinale (Fresh Ginger Root) Oil', 'Cymbopogan Martinii Motia (Palmarosa) Oil', '*Salix Alba (White Willow) Bark Extract', '**Xanthan Gum', 'Caprylic/Capric Triglyceride (Derived From Coconut)', '*Ethyl Alcohol (Derived From Non-GMO Corn)']"
+Quintessential Serum,Tammy Fender,treatments-and-serums,"
+
+          $175.00
+        
+","['Castor Isostearate Succinate', '*Helianthus Annuus (Sunflower) Seed Oil', '*Persea Gratissima (Avocado) Oil', 'Octyldodecyl Olivate (Olive)', 'Prunus Armeniaca (Apricot) Kernel Oil', '*Simmondsia Chinensis (Jojoba) Seed Oil', 'Squalene', 'Solanum Lycopersicum (Tomato) Fruit Extract', 'Calendula Officinalis (Marigold) Flower Extract', 'Commiphora Myrrha (Myrrh) Extract', 'Daucus Carota (Carrot) Seed Extract', 'Chamomilla Recutita (Matricaria) Flower Extract', 'Sambucus Nigra (Elderberry) Flower Extract', '*Rosa Canina (Rosehip) Seed Oil', 'Anthemis Nobilis (Roman Chamomile) Flower Oil', 'Rosa Damascena (Rose) Oil', 'Olibanum (Frankincense) Oil']"
+Radiance Renewal Peel,Indie Lee,treatments-and-serums,"
+
+          $70.00
+        
+","['Water (Aqua/Eau)', 'Propanediol', 'Glycerin', 'Spondias Mombin Pulp Extract', 'Mangifera Indica (Mango) Pulp Extract', 'Musa Sapientum (Banana) Pulp Extract', 'Terminalia Ferdinandiana Fruit Extract', 'Microcitrus Australasica Fruit Extract', 'Biosaccharide gum-1', '*Pentylene Glycol', '*Phenethyl Alcohol']"
+Dual-Action Jade Facial Roller,Province Apothecary,treatments-and-serums,"
+
+          $44.00
+        
+",[]
+Here We Glow Again Serum,27 Rosiers,treatments-and-serums,"
+
+          $65.00
+        
+","['Water/Eau/Aqua', 'Glycerin', 'Betaine', 'Trehalose', 'Propanediol', 'Caesalpinia Spinosa Fruit Pod Extract', 'Caesalpinia Spinosa fruit extract', 'Withania Somnifera Root Extract', 'Aloe Barbadensis (Aloe Vera) Leaf Juice', 'Calendula Flower Extract', 'Chamomilla Recutita Flower Extract', 'Helianthus Annuus (Sunflower) Sprout Extract', 'Terminalia Ferdinandiana Fruit Extract', 'Fructose', 'Xanthan Gum', 'Sodium Hyaluronate', 'Maltodextrin', 'Caprylyl Glycol', 'Pentylene Glycol', 'Ethylhexylglycerin', 'Citric Acid', 'Potassium Sorbate', 'Sodium Benzoate', 'Fragrance/Parfum', 'Bismuth Oxychloride/CI 77163']"
+Daily Elements Defense Face Oil,La Bella Figura,treatments-and-serums,"
+
+          $95.00
+        
+","['*Plukenetia Volubilis (Sacha Inchi) Seed Oil', '*Rosa Rubiginosa (Rosehip) Seed Oil', '*Camellia Oleifera (Camellia) Seed Oil', 'Psidium Guajava (Guava) Seed Oil', '*Simmondsia Chinesis (Jojoba) Seed Oil', 'Eugenia Uniflora (Pitanga Leaf) Oil', '*Oenothera Biennis (Evening Primrose) Oil', '*Punica Granatum (Pomegranate) Seed Extract', 'Calendula Officinalis Extract', 'Jasminum Officinale (Jasmine) Flower Oil', '*Rosa Damascena (Rose Otto) Flower Oil', '*Santalum Album (Australian Sandalwood) Oil', '*Cymbopogon Martinii Motia (Palmarosa) Oil']"
+Vitamin C & Revitalizing Organic Sheet Mask,ORGAID,masks-exfoliants,"
+
+          $6.00
+        
+","['Water', '*Lemon Distillate', 'Kosher Vegetable Glycerin', 'Lactobacillus Ferment', 'Sodium Ascorbyl Phosphate (Vitamic C)', 'Hyaluronic Acid - Hydrating Agent', 'Maltodextrin', 'Arginine', 'Carbomer', '*Orange Peel Extract', '*Pomegranate Extract', 'Organic Rosehip Extract', '*Lavender', '*Thyme']"
+Regenerating Cleanser,Tata Harper,masks-exfoliants,"
+
+          $84.00
+        
+","['*Aloe Vera Leaf Juice', 'Cetearyl Alcohol', 'Cetearyl Olivate', 'Helianthus Annuus (Sunflower) Seed Oil', 'Apricot Seed Powder', 'Sorbitan Olivate', 'Rice Seed Extract', 'Pomegranate Extract', 'Leuconostoc Ferment Filtrate', 'Water', 'Coco Glucoside', 'Cetearyl Glucoside', 'Rose Clay', 'Sclerotium Gum', 'Cetyl Palmitate', 'White Willow Bark Extract', 'Sorbitan Palmitate', 'Sodium Phytate', 'Denatured Alcohol', 'Benzyl Alcohol', '**Aroma', 'Benzyl Benzoate', 'Citral', 'Citronellol', 'Eugenol', 'Geraniol', 'Limonene', 'Linalool']"
+Anti Aging & Moisturizing Organic Sheet Mask,ORGAID,masks-exfoliants,"
+
+          $6.00
+        
+","['Water', '*Aloe Barbadensis (Aloe Vera) Leaf Juice', 'Witch Hazel Distillate', 'Niacinamide (Vitamin B3)', 'Kosher Vegetable Glycerin', 'Lactobacillus Ferment', 'Hyaluronic Acid - Hydrating Agent', 'Maltodextrin', 'Arginine', 'Carbomer', '*White Willow Bark Extract', '*Lavender', '*Rosemary Extract', '*Horsetail', '*Green Tea']"
+Greek Yogurt & Nourishing Organic Sheet Mask,ORGAID,masks-exfoliants,"
+
+          $6.00
+        
+","['Water', '*Aloe Barbadensis (Aloe Vera) Leaf Juice', 'Kosher Vegetable Glycerin', 'Lactobacillus Ferment', '*Greek Yogurt Powder', '*Lavender', 'Vanilla Fruit Distillate', 'Hyaluronic Acid - Hydrating Agent', 'Maltodextrin', 'Beta Glucan', 'Panthenol (Pro-Vitamin B5)', 'Hydrolyzed Vegetable Protein', 'Allantoin', 'Arginine', 'Carbomer', '*Chamomile Extract', '*Thyme', '*White Willow Bark Extract', 'Organic Rosehip Extract', '*Green Tea']"
+Resurfacing Mask,Tata Harper,masks-exfoliants,"
+
+          $65.00
+        
+","['*Aloe Barbadensis Leaf Juice', 'Salix Alba (Willow) Bark Extract', 'Sclerotium Gum', 'Aqua/Water', 'Lactobacillus Ferment', 'Maltooligosyl Glucoside', 'Lactobacillus/Punica Granatum Fruit Ferment Extract', 'Leuconostoc Ferment Filtrate', 'Hydrogenated Starch Hydrolysate', 'Hydrolyzed Corn Starch', 'Beta Vulgaris/Beet Root Extract', 'Kaolin (Rose Clay)', 'Sodium Phytate', '**Aroma', 'Benzyl Alcohol', 'Citral', 'Citronellol', 'Eugenol', 'Geraniol', 'Limonene', 'Linalool']"
+Oat Cleansing Facial Polish,Naturopathica,masks-exfoliants,"
+
+          $62.00
+        
+","['Aloe Barbadensis (Aloe Vera) Leaf Juice', 'Helianthus Annuus (Sunflower) Seed Oil', 'Cetearyl Alcohol', 'Cetearyl Glucoside', 'Simmondsia Chinensis (Jojoba) Wax Beads', 'Avena Sativa (Oat) Flour', 'Lactobacillus Ferment', 'Sesamun Indicum (Sesame) Seed Oil', 'Glycerin', 'Arachidyl Alcohol', 'Behenyl Alcohol', 'Arachidyl Glucoside', 'Water/Aqua/Eau', 'Avena Sativa (Oat) Extract', 'Triticum Vulgare (Wheat) Germ Oil', 'Chitin', 'Beta Glucan', 'Glyceryl Caprylate', 'Sclerotium Gum', 'Rosmarinus Officinalis (Rosemary) Leaf Extract', 'P-Anisic Acid', 'Lavandula Angustifolia (Lavender) Flower Oil', 'Rosa Damascena (Rose) Flower Oil', 'Nardostachys Chinensis (Spikenard) Root Oil', 'Cananga Odorata (Ylang Ylang) Flower Oil', 'Xanthan Gum', 'Phenethyl Alcohol']"
+Sweet Cherry Brightening Enzyme Peel,Naturopathica,masks-exfoliants,"
+
+          $58.00
+        
+","['Prunus Avium (Sweet Cherry) Seed Oil', 'Glycerin', 'Aqua/Water/Eau', 'Lactic Acid (L)', 'Salicylic Acid', 'Tartaric Acid (L)', 'Wine Extract', 'Mandelic Acid (L)', 'Bromelain', 'Malic Acid (L)', 'Organic Punica Granatum (Pomegranate) Extract', 'Prunus Serotina (Wild Cherry) Bark Extract', 'Vitis Vinifera (Grape) Seed Extract', 'Lycopene', 'Sodium Metabisulfite', 'Xanthan Gum', 'Lonicera Caprifolium (Honeysuckle) Flower Extract', 'Hamamelis Virginiana (Witch Hazel) Water', 'Alcohol', 'Lonicera Japonica (Honeysuckle) Flower Extract', 'Potassium Sorbate']"
+Ocean Cleansing Mudd,OSEA,masks-exfoliants,"
+
+          $48.00
+        
+","['Aqua', '*Macrocystis Pyrifera Algae', 'Decyl Glucoside', 'Sodium Lauroyl Oat Amino Acids', '*Fucus Vesiculosus Extract', 'Laminaria Digitata Extract', 'Coco Glucoside', 'Coconut Alcohol', 'Sorbitan Olivate', '*Simmondsia Chinensis Oil (Jojoba) Seed Oil', '*Carthamus Tinctorius (Safflower) Seed Oil', '*Melaleuca Alternifolia (Tea Tree) Essential Oil', '*Rosmarinus Officinalis Leaf (Rosemary Essential Oil)', 'Salvia Officinalis (Sage) Essential Oil', '*Lavandula Angustifolia (Lavender) Essential Oil', 'Mentha Piperita (Peppermint) Essential Oil', '*Cupressus Sempervirens (Cypress) Essential Oil', 'Tocopherol', 'Vaccinium Myrtillus (Bilberry) Extract', 'Citrus Aurantium Dulcis (Orange) Fruit Extract', 'Citrus Medica Limonium (Lemon) Fruit Extract', 'Acer Saccharinum (Sugar Maple) Extract', 'Magnesium Aluminum Silicate', 'Xanthan Gum', 'Potassium Sorbate', 'Lonicera Caprifolium Extract']"
+Ultra Hydrating Mask: Restore + Soften,Follain,masks-exfoliants,"
+
+          $34.00
+        
+","['Water/Aqua/Eau', 'Rosa Damascena Flower Water', 'Glycerin', 'Pentylene Glycol', 'Sorbitan Olivate', 'Squalane', 'Heptyl Undecylenate', 'Isocetyl Stearoyl Stearate', 'Propanediol', 'Glyceryl Stearate', 'Mangifera Indica (Mango) Seed Butter', 'Organic Persea Gratissima (Avocado) Oil', 'Polyglyceryl-10 Oleate', 'Simmondsia Chinensis (Jojoba) Seed Oil', 'Sodium Cocoyl Alaninate', 'Hydrolyzed Sodium Hyaluronate', 'Sodium Hyaluronate', 'Phospholipids', 'Bakuchiol', 'Paeonia Albiflora Flower Extract', 'Eriophorum Spissum Flower/Stem Extract', 'Globularia Alypum Leaf Extract', 'Rosa Gallica Flower Extract', 'Linum Usitatissimum (Linseed) Seed Oil', 'Moringa Oleifera Seed Oil', 'Oenothera Biennis (Evening Primrose) Oil', 'Rosa Canina Fruit Oil', 'Rosa Damascena Flower Oil', 'Salvia Hispanica Seed Oil', 'Helianthus Annuus (Sunflower) Seed Oil', '1,2-Hexanediol', 'Hydrolyzed Jojoba Esters', 'Sodium Acrylates Copolymer', 'Hydrogenated Polydecene', 'Tocopherol', 'Tetrasodium Glutamate Diacetate', 'Carbomer', 'Polyglyceryl-10 Stearate', 'Xanthan Gum', 'Caprylhydroxamic Acid', 'Sodium Hydroxide', 'Rosmarinus Officinalis (Rosemary) Leaf Extract']"
+Dual Detox Mask: Purify + Resurface,Follain,masks-exfoliants,"
+
+          $34.00
+        
+","['Water/Aqua/Eau', 'Kaolin', 'Rosa Damascena Flower Water', 'Bentonite', 'Glycerin', 'Sodium Lactate', 'Lactic Acid', 'Glyceryl Stearate', 'Vitis Vinifera (Grape) Seed Oil', 'Arachidyl Alcohol', 'Montmorillonite', 'Illite', 'Glycolic Acid', 'Salicylic Acid', 'Gluconolactone', 'Carica Papaya (Papaya) Fruit Extract', 'Mangifera Indica (Mango) Fruit Extract', 'Glycerin/Zingiber Officinale (Ginger) Root Extract', 'Oryza Sativa (Rice) Bran Extract', 'Borago Officinalis Seed Oil', 'Camellia Oleifera Seed Oil', 'Glyceryl Caprylate', 'Sodium Hydroxide', 'Myristyl Myristate', 'Behenyl Alcohol', 'Xanthan Gum', 'Arachidyl Glucoside', 'Dipotassium Glycyrrhizate', 'Myristyl Laurate', 'Bisabolol', 'Caprylhydroxamic Acid', 'Tartaric Acid', 'Terminalia Ferdinandiana Fruit Extract', 'Citric Acid']"
+The Cleansing Sponge – Rose Clay,One Love Organics,masks-exfoliants,"
+
+          $10.00
+        
+","['Konjac-Mannan Plant Fiber (Glucomannan)', 'kaolin-illitee (pink clay)']"
+The Cleansing Sponge – Charcoal,One Love Organics,masks-exfoliants,"
+
+          $10.00
+        
+","['Konjac-Mannan Plant Fiber (Glucomannan)', 'Bamboo Charcoal']"
+Advanced Hydration Mask,Josh Rosebrook,masks-exfoliants,"
+
+          $65.00
+        
+","['*Calendula Extract', '*Sunflower Seed Oil', '*Shea Butter', '*Mango Seed Butter', '*Aloe Vera Leaf Juice', '*Indian Senna Seed Extract (Botanical Hyaluronic Acid)', '*Avocado Oil', '*Jojoba Oil', '*Evening Primrose Oil', '**Candelilla Wax', '*Ashwagandha', '*Turmeric', '*Rose Hip Seed Oil', '*Goji Berry', '*Black Cohosh', '*Elderberry', '*Bladderwrack', '*Marshmallow Root', '*Ginger Root', '*Fenugreek', '*Chickweed', '*Licorice Root Extract', '*Red Raspberry Seed Oil', '*Dandelion Extract', '*Sage Extract', '*Eye Bright Herb Extract', '*Milk Thistle', '*Rose Blossoms', ""*St. John's Wort Flowers"", '*Cats Claw', '*Cinnamon', '*Lavender', '*Ginkgo Leaf', 'Xanthan Gum', 'Potassium Sorbate', '*Blue Tansy Flower Oil', '*Blue Chamomile', '*Lavender Oil', '*Rose Essential Oil', '**Frankincense Oil']"
+Active Enzyme Exfoliator,Josh Rosebrook,masks-exfoliants,"
+
+          $65.00
+        
+","['*Honey', '*Vegetable Glycerin', 'Water', '*Soy Lecithin', '*Avocado Oil', '*Jojoba Oil', '*Sunflower Seed Oil', '*Evening Primrose Oil', '*Neem Leaf', '*Echinacea Root Extract', '*Hawthorn Berry', '*Alfalfa Extract', '*Ashwagandha', '*Goji Berry', '*Beet Root', '*Bilberry', '*Black Cohosh', '*Rosemary', '*Fennel Essential Oil', '*Dandelion Extract', '*Calendula Flowers', '*Fo Ti Root Extract', 'Turmeric', '*Clary Sage', '*Stevia Leaf Powder', '*Chamomile Extract', '*Rose Hips', '*Licorice Root Extract', '*Chickweed', '*Horse Chestnut Extract', '*Eye Bright Herb Extract', ""*St. John's Wort Extract"", '*Coriander', '*Great Burdock Root Extract', '*Elderberry', '*Yucca', '*Thyme', '*Lavender Oil', '*Olive Leaf Extract', '*Raspberry Leaf Extract', '*Red Clover', '*Papaya Enzyme', 'Walnut Shells', '*Guar Gum Extract', '*Acacia Arabica Gum', 'Citrus Lemon Oil', 'Cypress Oil', 'Fennel Oil', 'Bergamot Oil', 'Lime Oil']"
+Blue Tansy Mask,Herbivore Botanicals,masks-exfoliants,"
+
+          $48.00
+        
+","['Aloe Barbadensis (Organic Aloe) Leaf Juice', 'Hydroxyethyl Ethylcellulose (Plant Derived)', 'Glycerin', 'Glyceryl Caprylate', 'Salix Nigra (Willow) Bark Extract', 'Tanacetum Annuum (Blue Tansy) Flower Oil', 'Ananas Sativus (Organic Pineapple) Fruit Extract', 'Carica Papaya (Organic Papaya) Fruit Extract', 'Carica Papaya (Organic Papaya) Leaf Extract', 'Jasminum Sambac (Jasmine) Flower Oil', 'Leuconostoc / (Leucidal) Radish Root Ferment Filtrate']"
+Epi Peel,Tammy Fender,masks-exfoliants,"
+
+          $80.00
+        
+","['Rosmarinus Officinalis (Rosemary) Leaf Water', '*Mentha Piperita (Peppermint)', 'Kaolin (Clay)', 'Cetearyl Alcohol', 'Cera Alba (Beeswax)', 'Butyrosepermum Parkii (Shea Butter)', 'Cetearyl Glucoside', 'Stearyl Olivate (Olive)', 'Silica', 'Oryza Sativa (Rice) Starch', 'Sclerotium Gum (Mushroom)', 'Copernica Cerifera (Carnauba) Wax', 'Lavandula Angustifolia (Lavender) Oil', 'Mentha Piperita (Peppermint) Oil', 'Mentha Viridis (Spearmint) Oil', 'Rosmarinus Officinalis (Rosemary) Oil', '*Quillaja Saponaria (Soapbark Tree) Bark Extract', 'Glycerin', 'Nasturtium Officinale (Watercress) Extract', 'Benzyl Alcohol', 'Ethylhexylglycerin', 'Tocopherol', 'Iris Florentina (Iris) Root Extract', 'Panax (Ginseng) Root Extract', 'Vitis Vinifera (Grape) Leaf Extract', 'Arctium Lappa (Great Burdock) Root Extract']"
+The Problem Solver,May Lindstrom,masks-exfoliants,"
+
+          $100.00
+        
+","['Solum Fullonum (Fullerâ\x80\x99s Earth) Clay', 'Red Moroccan Rhassoul Clay', '*Theobroma Cacao (Raw Cacao)', 'Red Alaea Sea Salt (Sea Salt and Red Alaea)', 'L-Ascorbic Acid (Vitamin C)', 'Sodium Bicarbonate', 'Charcoal Powder (Activated Bamboo Carbon)', '**Vanilla Planifolia Bean', '**Lavandula Angustifolia (Lavender) Flower', '**Althaea Officinalis (Marshmallow) Root', '***Boswellia Serrate Gum (Frankincense) Powder', '**Centella Asiatica (Gotu Kola)', '**Archangelica (Angelica) Root', '*Cinnamomum Zealanicum Blum (Ceylon Cinnamon)', '**Myristica Fragans (Nutmeg)', '**Syzygium Aromaticum (Clove)', '**Curcuma Longa (Turmeric)', '**Capsicum Annuum (Cayenne) Pepper', '****Eugenol']"
+Herbal Hydration Complex,Farmaesthetics,masks-exfoliants,"
+
+          $50.00
+        
+","['*Shea Butter', 'Natural Beeswax', '*Soybean Oil', '*Witch Hazel', 'L-Arginine', 'Natural Lactic Acid (From Fermented Sugarcane)', 'Chlorophyll', 'Oatmeal', 'Aloe Vera', 'Vegetable Glycerin', 'Xanthan Gum', 'Peppermint & Lavender Essential Oils']"
+Clean Dirt,May Lindstrom,masks-exfoliants,"
+
+          $70.00
+        
+","['Kaolin (White Halloysite) Clay', 'Red Moroccan Rhassoul Clay', 'Red Alaea Sea Salt (Sea Salt and Red Alaea)', 'L-Ascorbic Acid (Vitamin C)', 'Sodium Bicarbonate', '*Althaea Officinalis (Marshmallow) Root', '*Rosa Centifolia (Pink Rose)', '*Calendula Officinalis (Calendula) Flower', '*Cinnamomum Zealanicum Blum (Ceylon Cinnamon)', '*Myristica Fragans (Nutmeg)', '*Syzygium Aromaticum (Clove)', '*Curcuma Longa (Turmeric)', '*Zingiber Officinale (Ginger)', '*Vanilla Planifolia Bean', '**Theobroma Cacao (Raw Cacao)', '***Eugenol']"
+"Japanese Matcha Tea, Acai, & Goji Berry Facial Mask",Pangea Organics,masks-exfoliants,"
+
+          $50.00
+        
+","['*Aloe Barbadensis (Aloe Vera) Leaf Juice', 'Purified Water (Aqua)', '*Glycerin (Vegetable)', 'Alcohol (SDA 38B Lavender)', 'Kaolin (French White Clay)', 'Bentonite (Green Clay)', 'Gigartina Papillata (Seaweed) Powder', 'Camellia Sinensis (Green Tea) Leaf Powder', 'Camellia Sinensis (Matcha Tea) Leaf Powder', 'Sea Vegetable Powder (Alaria Marginata (Wakame)', 'Laminaria Setchellii (Kombu) Powder)', 'Glyceryl Stearate SE', '*Lecithin', 'Chondrus Cripus (Irish Moss) Powder', 'Ethylhexyl Palmitate (RSPO Palm Kernel Oil)', '*Saccharum Officinarum (Cane Sugar)', 'Citrus Reticulata (Green Mandarin) Peel Oil', 'Myrtus Communis (Myrtle) Oil', 'Lavandula Angustifolia (Lavender Maillette) Oil', 'Ocimum Basilicum (Basil) Oil', '*Simmondsia Chinensis (Jojoba) Seed Oil', '*Helianthus Annuus (High Oleic Sunflower Seed) Oil', 'Xanthan Gum', 'Tocopheryl Acetate (Vitamin E)', '*Euterpe Oleracea (Acai) Fruit Extract', '*Lycium Barbarum (Goji) Fruit Extract', '*Ilex Paraguariensis (Yerba Mate) Leaf Extract', '*Calendula Officinalis (Calendula) Flower Extract', 'Cucumis Sativus (Cucumber) Extract', 'Citrus Limon (Lemon) Peel Extract', 'Laminaria Digitata (Kelp) Extract', 'Mentha Piperita (Peppermint) Leaf Extract', 'Rosmarinus Officinalis (Rosemary) Leaf Extract']"
+Purifying Manuka Mask,La Bella Figura,masks-exfoliants,"
+
+          $70.00
+        
+","['*Organic Leptospermum Scoparium Mel 15+ (Raw Manuka Honey)', 'Kaolin (Amazonian White Clay)', '*Organic Oenothera Biennis (Evening Primrose) Oil', '*Organic Nigella Sativa (Black Cumin) Seed Oil', 'Wild Crafted Carica Papaya (Papaya) Seed Oil', '*Organic Moroccan Lava (Rhassoul) Clay', 'Activated Charcoal', 'Wild Crafted Citrus Aurantium Amara (Orange) Flower Water', '*Organic Centella Asiatica (Gotu Kola) Extract', '*Organic Arctium Lappa (Burdock Root) Extract', '*Organic Hibiscus Sabdariffa (Hibiscus Flower) Extract', '*Organic Salix Alba (Willow Bark) Powder', '*Organic Helichrysum Stoechas (Helichrysum) Extract', '*Organic Curcuma Longa (Turmeric) Root Powder', '*Organic Petroselinum Crispum (Parsley) Seed Oil', '*Organic Pelargonium Graveolens (Rose Geranium) Oil', '*Organic Daucus Carota Sativa (Carrot) Seed Oil', '*Organic Anthemis Nobilis (Roman Chamomile) Oil', 'Wild Crafted Commiphora Myrrha (Myrrh) Oil', '*Organic Santalum Album (Australian Sandalwood) Oil', 'Non-GMO Tocopheryl Acetate (Vitamin E)', 'Wild Crafted Leuconostoc (Radish Root Extract) Ferment Filtrate']"
+Brighten Pineapple + Gemstone Mask,Herbivore Botanicals,masks-exfoliants,"
+
+          $48.00
+        
+","['Aloe Barbadensis (Organic Aloe) Leaf Gel', 'Hydroxyethyl Cellulose (plant derived), Glycerin', 'Carica Papaya (Organic Papaya) Fruit Extract', 'Pineapple Natural Melange', 'Ananas Comosus (Organic Pineapple) Fruit Extract', 'Brazilian Micronized Tourmaline Gemstone Powder', 'Oryza Sativa (Rice) Powder', 'Leuconostoc/ (Leucidal) Radish Root Ferment Fillrate']"
+Hydrating Floral Mask,Tata Harper,masks-exfoliants,"
+
+          $95.00
+        
+","['Helianthus Annuus (Sunflower) Seed Oil', 'Glycerin', 'Caprylic/Capric Triglyceride', '*Butyrospermum Parkii (Shea) Butter', 'Cocos Nucifera (Coconut) Oil', 'Propanediol', '*Olea Europaea (Olive) Oil', 'Ricinus Communis (Castor) Seed Oil', 'Aqua/Water/Eau', '*Hordeum Vulgare Leaf Juice', 'Cocos Nucifera (Coconut) Fruit Extract', 'Sucrose Laurate', 'Linoleic Acid', 'Sambucus Nigra Fruit Extract', 'Tocopherol', 'Lactobacillus Ferment', 'Leuconostoc Ferment Filtrate', 'Salvia Hispanica (Chia) Seed Extract', 'Sodium Hyaluronate', 'Hyaluronic Acid', 'Tremella Funciformis Sporocarp Extract', 'Anigozanthos Flavidus Extract', 'Banksia Serrata Flower Extract', 'Grevillea Speciosa Flower Extract', 'Musa Sapientum Flower Extract', 'Saccharide Isomerate', 'Linolenic Acid', 'Squalane Oil', 'Beta Vulgaris/Beet Root Extract/Extrait De Racine De Betterave', '*Camellia Oleifera Seed Oil', 'Lavandula Angustifolia (Lavender) Flower/Leaf/Stem Water', '*Rosa Damascena Flower Water', '*Arnica Montana (Arnica) Extract', '*Borago Officinalis (Borage) Leaf Extract', '*Calendula Officinalis (Calendula) Flower Extract', '*Medicago Sativa (Alfalfa) Extract', '*Spiraea Ulmaria (Meadowsweet) Extract', '*Simmondsia Chinensis (Jojoba) Seed Oil', 'Ascorbyl Palmitate', '*Cera Alba', '*Cera Carnauba/Copernicia Cerifera (Carnauba) Wax', 'Sucrose Palmitate', 'Sucrose Stearate', 'Sodium Citrate', 'Phenethyl Alcohol', 'Citric Acid', 'Hydrolyzed Corn Starch', 'CI 77288', '**Aroma']"
+3-Minute Flash Mask,Ursa Major,masks-exfoliants,"
+
+          $44.00
+        
+","['*Aloe Barbadensis (Aloe Vera) Leaf Juice', '*Hamamelis Virginiana (Witch Hazel)', '*Alcohol', 'Glycerin', 'Sodium Levulinate', 'Sodium Anisate', 'Lactobacillus/Punica Granatum Ferment Extract', 'Populus Tremuloides (Aspen) Bark Extract', 'Sclerotium Gum', 'Pectin', 'Water/Aqua/Eau', 'Sodium Hyaluronate', '*Medicago Sativa (Alfalfa) Extract', '*Hibiscus Sabdariffa Flower Extract', 'Salix Alba (Willow) Bark Extract', 'copper PCA', 'Caprylic/Capric Triglyceride', 'Rose Extract', 'Vanilla Planifolia Fruit Extract', 'Cucumis Sativus (Cucumber) Fruit Extract', 'Santalum Album (Sandalwood) Wood Extract', 'Passiflora Incarnata Fruit Extract', 'Prunus Armeniaca (Apricot) Fruit Extract', 'Rubus Idaeus (Raspberry) Fruit Extract', 'Cananga Odorata Flower Extract', 'Cucumis Melo Cantalupensis Fruit Extract', 'Coffea Arabica (Coffee) Seed Extract', 'Cocos Nucifera (Coconut) Fruit Extract', 'Citrus Aurantium Dulcis (Orange) Peel Extract', 'Prunus Amygdalus (Sweet Almond) Fruit Extract', 'Citrus Limon (Lemon) Peel Extract', 'Ananas Sativus (Pineapple) Fruit Extract', 'Citrus Grandis (Grapefruit) Peel Extract', 'Aniba Rosaeodora (Rosewood) Wood Extract', 'Lavandula Angustifolia (Lavender) Extract']"
+Clarifying Mask,Tata Harper,masks-exfoliants,"
+
+          $72.00
+        
+","['Mel/Honey', 'Kaolin - Kaolin', '*Salvia Officinalis (Sage) Flower/Leaf/Stem Extract', 'Lactobacillis / Rye Flour / Ferment', 'L (+) Lactic Acid', 'Salix Alba (Willow) Bark Extract', '*Lavandula Angustifolia (Lavender) Flower/Leaf/Stem Water', 'Maranta Arundinacea Root Extract', 'Bentonite', '**Aroma', 'Glyceryl Undecylenate', 'Pyrus Malus (Apple) Seed Oil', 'Aqua/Water', 'Glycerin', 'Hydrated Silica', '*Oenothera Biennis (Evening Primrose) Oil', 'Santalum Spicatum (Sandalwood) Seed Oil', 'Lannea Microcarpa Fruit Extract', 'Tasmannia Lanceolata Fruit/Leaf Extract', 'Chlorella Pyrenoidosa', 'Vaccinium Myrtillus Fruit / Leaf Extract', 'Gaultheria Procumbens (Wintergreen) Leaf Extract', 'Saccharum Officinarum (Sugar Cane) Extract', 'Citrus Aurantium Dulcis (Orange) Fruit Extract', 'Citrus Limon (Lemon) Fruit Extract', 'Acer Saccharum (Sugar Maple) Extract', '*Olea Europaea (Olive) Oil', 'Borago Officinalis (Borage) Oil', '*Arnica Montana (Arnica) Extract', '*Borago Officinalis (Borage) Leaf Extract', '*Calendula Officinalis (Calendula) Flower Extract', '*Medicago Sativa (Alfalfa) Extract', '*Spiraea Ulmaria Flower Extract', 'Sambucus Nigra Fruit Extract', 'Alpha-Glucan Oligosaccharide', 'Glyceryl Caprylate', 'Sodium Citrate', 'Sodium Phytate', 'CI 77288', 'Linalool', 'Limonene', 'Geraniol', 'Citronellol', 'Citral', 'Eugenol', 'Methyl Eugenol']"
+Cacao Antioxidant Mask,Josh Rosebrook,masks-exfoliants,"
+
+          $65.00
+        
+","['Prunus Amygdalus Dulcis (Sweet Almond) Oil', 'Rosmarinus Officinalis (Rosemary) Extract', '*Rosmarinus Officinalis (Rosemary) Extract', '*Dandelion Extract', 'Potassium Sorbate', '*Lavender', '*Cinnamon', 'Elderberry', '*Elderberry', 'Alfalfa Extract', '*Raspberry Leaf Extract', '*Marshmallow Root', '*Cats Claw', 'Turmeric', 'Beet Root Extract', '*Calendula Flowers', '*Orange Essential Oil', '*Calendula Extract', '*Milk Thistle', 'Salvia Sclarea (Clary Sage) Oil', '*Witch Hazel', '*Ginger Root', '*Eye Bright Herb Extract', 'Grape Seed Oil', '*Grape Seed Oil', 'Goji Fruit Extract', 'Marula Oil', '*Chickweed', '*Goji Fruit Extract', '*Fenugreek', '*Rose Petal', '*Ginkgo Leaf', 'Orange Essential Oil', '*Licorice Root Extract', 'Lavender Essential Oil', '*Beet Root', '*Lavender Essential Oil', '*Bladderwrack', 'Calendula Offincalis Flower Extract', 'Dandelion Extract', '*Clary Sage', '*Ashwagandha', '*Black Cohosh', '*Alfalfa Extract', ""*St. John's Wort Extract"", 'Ginger Root Oil', 'Rosemary Leaf Oil', 'Water', '*Rosemary Leaf Oil']"
+Ready Selfie Go Mask,27 Rosiers,masks-exfoliants,"
+
+          $48.00
+        
+","['Water/Eau/Aqua', 'Kaolin - Kaolin', 'Glycerin', 'Bentonite', 'Glyceryl Stearate', 'Helianthus Annuus (Sunflower) Seed Oil', 'Stearic Acid', 'Propanediol', 'Arthrospira Platensis Extract', 'Withania Somnifera Root Extract', 'Aloe Barbadensis (Aloe Vera) Leaf Juice', 'Calendula Flower Extract', 'Chamomilla Recutita Flower Extract', 'Butyrospermum Parkii (Shea) Butter', 'Chlorophyllin-Copper Complex', 'Fructose', 'Caprylyl Glycol', 'Pentylene Glycol', 'Citric Acid', 'Potassium Sorbate', 'Sodium Benzoate', 'Fragrance/Parfum', 'Chromium Oxide Greens/CI 77288']"
+Love + Charcoal Masque,One Love Organics,masks-exfoliants,"
+
+          $49.00
+        
+","['*Aloe Barbadensis Leaf Juice', 'Kaolin - Kaolin', 'Glyceryl Stearate SE', '*Helianthus Annus (Sunflower) Seed Oil', 'Water', 'Caprylyl/Capryl Glucoside', 'Xylitylglucoside', 'Sodium Cocoyl Hydrolyzed Amaranth Protein', 'Charcoal Powder', '*Theobroma Grandiflorum (Cupuacu) Butter', '*rhododendron ferrugineum extract', 'Pelargonium Gravolens Flower Oil', 'Glycerin', 'Tocopherol', 'Lactic Acid', 'silax nigra (willow) bark extract', 'Sclerotium Gum', 'Anhydroxylitol', 'Xylitol', 'Potassium Sorbate', 'Dehydroacetic Acid', 'Benzyl Alcohol']"
+Moss Blemish Treatment Mask,Naturopathica,masks-exfoliants,"
+
+          $58.00
+        
+","['Aqua/Water/Eau', 'Glycerin', 'Sulfur', 'Bentonite', 'Caprylic/Capric Triglyceride', 'Hamamelis Virginiana (Witch Hazel) Water', 'Coco-Caprylate/Caprate', 'Kaolin (Clay)', 'Alcohol Denat.', 'Cetearyl Glucoside', 'Chondrus Crispus (Carrageenan) Extract', 'Lavandula Angustifolia (Lavender) Oil', 'Lonicera Caprifolium (Honeysuckle) Flower Extract', 'Lonicera Japonica (Honeysuckle) Flower Extract', 'Glyceryl Stearate', 'Stearic Acid', 'Squalane (Olive)', 'Titanium Dioxide', 'Cocamidopropyl Hydroxysultaine', 'Citric Acid', 'Xanthan Gum', '*Calendula Officinalis Flower Extract', 'Cetearyl Alcohol', 'Chamomilla Recutita (Matricaria) Flower Extract - Chamomile Extract', 'Fructooligosaccharides (D-beta)', 'Cistus Ladaniferus (Labdanum) Resin', 'Alcohol', 'Phytic Acid', 'Potassium Sorbate']"
+Healing Manuka Mask,La Bella Figura,masks-exfoliants,"
+
+          $70.00
+        
+","['*Leptospermum Scoparium Mel 15+ (Raw Manuka Honey)', '*Aronia Melanocarpa (Organic Aronia Berry) Powder', 'Kaolin (Amazonian White Clay)', '*Opuntia Ficus Indica (Barbary Fig) Seed Oil', 'Vanilla Planifolia Fruit (Vanilla) Seeds', '*Jasminum Officinale (Jasmine) Petals', '*Calendula Officinalis Extract', 'Curcuma Longa (Turmeric Essential) Oil', 'Wild Crafted Jasminum Grandiflorum (Jasmine Essential) Oil', 'Wild Crafted Simmondsia Chinensis (Jojoba) Seed Oil', 'Non-GMO Tocopheryl Acetate (Vitamin E) Oil']"
+The Gua Sha Facial Lifting Tool,Mount Lai,eye-care,"
+
+          $28.00
+        
+",[]
+Eye Cream: Firm + Brighten,Follain,eye-care,"
+
+          $36.00
+        
+","['Water', 'Glycerin', 'Rosa Damascena Flower Water', 'Dicaprylyl Ether', 'Pentylene Glycol', 'Diheptyl Succinate', 'Propanediol', 'Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer', 'Capryloyl Glycerin/Sebacic Acid Copolymer', 'Bakuchiol', 'Palmitoyl Tripeptide-38', 'Caffeine', 'Arginine', 'Terminalia Ferdinandiana Fruit Extract', 'Rosa Canina Seed Oil', 'Squalane', 'Moringa Oleifera Seed Oil', 'Albizia Julibrissin Bark Extract', 'Pyrus Malus (Apple) Fruit Extract', '1,2-Hexanediol', 'Polyacrylate Crosspolymer-6', 'Caprylhydroxamic Acid', 'Hydroxypropyl Cyclodextrin', 'Darutoside']"
+Restorative Eye Cream,Tata Harper,eye-care,"
+
+          $105.00
+        
+","['*Aloe Barbadensis Leaf Juice', 'Aqua/Water', '*Carthamus Tinctorius (Safflower) Oleosomes', '*Lavandula Angustifolia (Lavender) Flower', 'Caprylic/Capric Triglyceride', 'Glycerin', '*Olea Europaea (Olive) Oil', 'Propanediol', 'Mangifera Indica (Mango) Butter', 'Cetearyl Alcohol', 'Cetearyl Olivate', '*Centella Asiatica (Gotu Kola)', 'Leuconostoc Ferment Filtrate', 'Cetearyl Glucoside', 'Pheonix Dactylifera (Date) Seed Extract', 'Menyanthes Trifoliata Leaf Extract', 'Polygonum Fagopyrum (Buckwheat) Seed Extract', 'Lavandula Stoechas (Spanish Lavender) Extract', '*Narcissus Tazetta (Daffodil) Bulb Extract', '*Arnica Montana (Arnica) Extract', '*Borago Officinalis (Borage) Leaf Extract', '*Medicago Sativa (Alfalfa) Extract', '*Spiraea Ulmaria Flower Extract', '*Calendula Officinalis (Calendula) Flower Extract', 'Sambucus Nigra Fruit Extract', 'Salix Alba (Willow) Bark Extract', 'P-Anisic Acid', 'Sodium Phytate', '*Superoxide Dismutase', '*Soybean Peroxidase', '**Aroma', 'Sorbitan Olivate', '*Oryza Sativa (Rice) Extract', 'Sclerotium Gum', 'Cetyl Palmitate', 'Sodium Hyaluronate', 'Sorbitan Palmitate', 'Hydrogenated Vegetable Oil', 'Citral', 'Citronellol', 'Eugenol', 'Geraniol', 'Limonene', 'Linalool']"
+The Rose Quartz Facial Roller,Mount Lai,eye-care,"
+
+          $38.00
+        
+",[]
+I-Waken Eye Serum,Indie Lee,eye-care,"
+
+          $48.00
+        
+","['Aqua/Water/Eau', 'Propanediol', 'Glycerin', 'Alcohol', 'Dicaprylyl Ether', 'Polyglyceryl-6 Distearate', 'Caprylic/Capric Triglyceride', 'Sodium Levulinate', 'Sclerotium Gum', 'Simmondsia Chinensis (Jojoba Seed) Oil', 'Squalane Oil', 'Jojoba Esters (Beads)', 'Chondrus Crispus', 'Sodium Anisate', 'Pyrus Sorbus Bud Extract', 'Sodium Dehydroacetate', 'Cetyl Alcohol', 'Polyglyceryl-3 Beeswax', 'Sodium Hyaluronate', 'Galactaric Acid', 'Tocopherol', 'Citric Acid', 'Aesculus Hippocastanum (Horse Chestnut) Seed Extract', 'Arnica Montana Flower Extract', 'Centaurea Cyanus Flower Extract', 'Chamomilla Recutita (Matricaria) Flower Extract - Chamomile Extract', 'Hamamelis Virginiana (Witch Hazel) Leaf Extract', 'Ribes Nigrum (Black Currant) Leaf Extract', 'Spirulina Maxima Extract', 'Helianthus Annuus (Sunflower) Seed Oil']"
+Vitamin E Active Moisture Eye Balm,One Love Organics,eye-care,"
+
+          $49.00
+        
+","['*Butyrospermum Parkii (Shea) Oil', 'Punica Granatum (Pomegranate) Sterols', '*Helianthus Annus (Sunflower) Seed Oil', 'Jojoba Esters (Beads)', 'Tocopherol', '*Adansonia Digitata (Baobab) Oil', 'Alaria Esculenta Extract', '*Aspalanthus Linearis Extract', '*Centella Asiatica Extract', '*Euphrasia Officinalis Extract', '*Lavandula Angustifolia (Lavender) Oil', '*Foeniculum Vulgare (Fennel) Oil', 'Caprylic/Capric Triglyceride']"
+Awakening Eye Gel,Tammy Fender,eye-care,"
+
+          $84.00
+        
+","['Rosmarinus Officinalis (Rosemary) Leaf Water', '*Daucus Carota Sativa (Carrot) Seed Water', '*Cucumis Sativus (Cucumber) Fruit Water', 'Glycerin', 'Castor Isostearate Succinate', 'Caprylic/Capric Triglyceride', 'Emulsifying Wax', '*Persea Gratissima (Avocado) Oil', 'Stearyl Olivate (Olive)', 'Behenyl Olivate (Olive)', 'Rosmarinus Officinalis (Rosemary) Leaf Extract', 'Pisum Sativum (Pea) Extract', 'Sodium Hyaluronate (Hyaluronic Acid)', 'Adansonia Digitata (Baobab) Pulp Extract', 'Hibiscus Sabdariffa (White Hibiscus) Flower Extract', 'Rosa Mosqueta (Rosehip) Fruit Oil', 'Lilium Candidum (White Lily) Flower Extract', 'Glycolipids', 'Sclerotium Gum (Mushroom)', '*Helianthus Annuus (Sunflower) Oil', 'Sambucus Nigra (Elder) Flower Extract', 'Euphrasia Officinalis (Eye Bright Herb) Extract', 'Olibanum (Frankincense) Oil', 'Myrtus Communis (Myrtle) Oil', 'Tocopherol', 'Glyceryl Polyacrylate', 'Sodium Benzoate', 'Potassium Sorbate']"
+Eye Opening Rose Oil,French Girl Organics,eye-care,"
+
+          $42.00
+        
+","['*Camellia Olifera (Camellia) Seed Oil Squalane', '*Simmondsia Chinensis (Jojoba) Seed Oil', '*Argania Spinsosa (Argan) Oil', '*Olea Europaea (Olive) Fruit Oil', '*Rosa Canina (Rosehip) Oil', 'Calophyllum Inophyllum (Tamanu) Seed Oil', 'Limnanthes Alba (Meadowfoam) Seed Oil', '*Oenothera Biennis (Evening Primrose) Seed Oil', '*Punica Granatum (Pomegranate) Seed Oil', '*Borago Officinalis (Borage) Seed Oil', '*Salvia Hispanica (Chia) Seed Oil', '**Hippophae Rhamnoides (Sea Buckthorn) Fruit Oil', 'Tocopherol (Non-GMO Vitamin E)', 'Aleurites Moluccana Seed (Kukui) Oil', 'Vaccinium Macrocarpon (Cranberry) Seed Oil', 'Daucus Carota (Carrot) Seed Oil', '*Pelargonium Graveolens (Rose Geranium) Leaf Oil', '*Boswellia Carteri (Frankincense) Oil', '*Cymbopogon Martini (Palmarosa)Oil', '*Citrus Aurantium Amara (Petitgrain) Leaf/Twig Oil', '*Copaifera Reticulata (Copaiba) Balsam Oil', '*Matricaria Chamomilla (Chamomile) Flower Oil', '*Helichrysum Italicum (Helichrysum) Flower Oil', '*Rosa Gallica (Rose) Otto', 'Jasminum Officianale (Jasmine) Extract', 'Pyrus Malus (Apple) Fruit Extract', 'Lavandula Angustifolia (Lavender) Flower Oil', 'Anthemis Nobilis Flower Oil', 'Elettaria Cardamomum (Cardamom) Seed Oil', 'Citrus Aurantium Amara (Bitter Orange) Flower Oil', 'Citrus Aurantium Dulcis (Orange) Peel Oil']"
+The Mini Jade Facial Roller,Mount Lai,eye-care,"
+
+          $20.00
+        
+",[]
+Eyebright,Farmaesthetics,eye-care,"
+
+          $28.00
+        
+","['*Eyebright Infused Sweet Almond Oil', 'Orange Wax', 'Vitamin E', '*Grapeseed Oil', 'Chamomile Extract']"
+Vitamin K Brightening Eye Serum,Naturopathica,eye-care,"
+
+          $78.00
+        
+","['Camellia Oleifera Seed Oil', 'Vitis Vinifera (Grape) Seed Oil', 'Silica', 'aluminum starch octenylsuccinate', 'Ricinus Communis (Castor) Seed Oil', 'Lauroyl Lysine', 'Ethyl Macadamiate', 'Dextrin Palmitate/Hexyldecanoate', 'Cera Alba (Beeswax)', 'Phytonadione', 'Titanium Dioxide', 'Silica Dimethyl Silylate', 'Aesculus Hippocastanum (Horse Chestnut) Seed Extract', 'Cedrus Atlantica Bark Extract', 'Citrus Grandis (Grapefruit) Seed Extract', 'Echinacea Purpurea Extract', 'Ginkgo Biloba Leaf Extract', 'Hippophae Rhamnoides Oil', 'Limnanthes Alba (Meadowfoam) Seed Oil', 'Tocopherol', 'Rosa Canina Fruit Extract', 'Sambucus Nigra Fruit Extract', 'Stearalkonium Hectorite', 'Mica', 'propylene carbonate']"
+Découverte Under Eye Repair Serum,La Bella Figura,eye-care,"
+
+          $115.00
+        
+","['*Argan (Argania Spinosa) Kernel Oil', '*Opuntia Ficus Indica (Barbary Fig) Seed Oil', '*Rosa Rubiginosa (Rosehip) Seed Oil', 'Lycopersicion Esculentum (Tomato) Seed Oil', 'Raw Coffea Arabica (Green Coffee Bean) Oil', 'Rosa Damascena (Rose Otto) Flower Oil', '*Tanacetum Annuum (Blue Tansy) Flower Oil', '*Helichrysum Italicum Oil', '*Cymbopogon Martinii Motia (Palmarosa) Oil', '*Lavandulia Augustifolia (Lavender) Oil']"
+Energising Eye Gel,Patyka,eye-care,"
+
+          $48.00
+        
+","['*Centaurea Cyanus Flower Water', 'Aqua (Water)', 'Glycerin', '*Vaccinium Macrocarpon (Cranberry) Fruit Water', 'Oryza Sativa (Rice) Hull Powder', 'Levulinic Acid', 'Xanthan Gum', 'Caffeine', 'Sodium Benzoate', 'Lysolecithin', 'Parfum (Fragrance)', 'Sclerotium Gum', 'Sodium Hyaluronate', 'Pullulan', 'Sodium Dextran Sulfate', 'Sodium Levulinate', 'Coffea Arabica (Coffee) Seed Extract', 'Mica', '*Avena Sativa (Oat) Kernel Extract', 'Ci 77491 (Iron Oxides)', 'Tetrasodium Glutamate Diacetate', 'Lecithin', 'Sodium Hydroxide', 'Limonene', 'Geraniol', 'Citric Acid', 'Ci 77891 (Titanium Dioxide)', 'Potassium Sorbate', 'Sargassum Filipendula Extract', 'Hydrogenated Lecithin', 'Benzyl Salicylate', 'Linalool', '*Lycium Barbarum Fruit Extract', '*Centella Asiatica Extract.']"
+Turkish Rose & White Tea Eye Cream,Pangea Organics,eye-care,"
+
+          $45.00
+        
+","['Aloe Barbadensis (Aloe Vera) Leaf Juice', 'Aqua (Water)', '*Theobroma Cacao (Cocoa) Seed Butter', '*Beeswax', 'Olea Europaea (Olive) Fruit Oil', '*Butyrospermum Parkii (Shea) Butter', 'Squalene (Vegetable)', 'Tocopheryl Acetate (Vitamin E)', 'Ubiquinone (CoQ10)', 'Glyceryl Stearate SE', 'Cetearyl Alcohol (Plant Wax)', '*Fagus Sylvatica (Beech) Bud Extract', '*Oenothera Biennis (Evening Primrose) Oil', 'Sodium Stearoyl Lactylate', 'Daucus Carota Sativa (Carrot) Seed Oil', 'Gluconolactone', 'Sodium Benzoate', 'Xanthan Gum', 'Borago Officinalis (Borage) Seed Oil', '**Hydroxyethylcellulose', 'Sucrose Stearate', 'Glycerin', '*Camellia Sinensis (White Tea) Leaf Extract', '*Ginkgo Biloba Leaf Extract', 'Panax Ginseng Root Extract', 'Vaccinium Myrtillus (Bilberry) Leaf Extract', 'Rosa Damascena (Rose Otto) Oil', 'Potassium Sorbate']"
+Dual-Action Jade Facial Roller,Province Apothecary,eye-care,"
+
+          $44.00
+        
+",[]
+Eye & Lip Firming Cream,OSEA,eye-care,"
+
+          $60.00
+        
+","['Aqua (Water)', 'Caprylic/ Capric Triglyceride', 'Glycerin', '*Glycerin', 'Sorbitan Olivate', 'Cetearyl Alcohol', 'Cetearyl Glucoside', 'Butyrospermum Parkii (Shea Butter)', '*Butyrospermum Parkii (Shea) Butter', 'Leuconostoc/Radish Root Ferment Filtrate', 'Ingredient', 'Saccharomyces/Manganese Ferment', '*Calendula Flowers', 'Hydroxyethyl cellulose', 'Citrus Medica Limonum (Lemon) Peel Oil']"
+Lip Balm,Follain,lip-care,"
+
+          $9.00
+        
+","['*Cocos Nucifera (Coconut) Oil', '*Beeswax', '*Argania Spinosa (Argan) Kernel Oil', '*Butyrospermum Parkii (Shea) Butter', '*Simmondsia Chinensis (Jojoba) Seed Oil', '*Olea Europaea (Olive) Fruit Oil', '*Anthemis Nobilis (Chamomile) Flower Oil', '*Citrus Sinensis (Orange) Peel Oil', 'Tocopherol', '*Honey']"
+Moon Balm,Hurraw!,lip-care,"
+
+          $4.29
+        
+","['*Persea Gratissima, (Avocado) Oil', '*Cocos Nucifera (Coconut) Oil', 'Euphorbia Cerifera Cera (Candelilla) Wax', '*Olea Europaea (Olive) Fruit Oil', '*Carthamus Tinctorius (Safflower) Seed Oil', '*Ricinus Communis (Castor) Seed Oil', '*Theobroma Cacao (Cacao) Seed Butter', 'Limnanthes Alba (Meadowfoam) Seed Oil', 'Rosa Rubiginosa (Rosehip) Seed Oil', 'Argania Spinosa (Argan) Kernel Oil', 'Aroma', 'Tocopherol', 'Chamomilla Recutita (Blue Chamomile) Flower Oil', 'Helianthus Annuus (Sunflower) Seed Oil', 'Myroxylon Pereirae (Balsam of Peru) Oil', '*Vanilla Planifolia (Vanilla) Seed', '**Benzyl Benzoate', '**Benzyl Cinnamate', '**Anise Alcohol']"
+Rose Lip Polish,French Girl Organics,lip-care,"
+
+          $18.00
+        
+","['*Sucrose', '*Butyrospermum Parkii (Shea) Butter', '*Cocos Nucifera (Coconut) Oil', '*Theobroma Cacao (Cocoa) Seed Butter', '*Helianthus Annuus (Sunflower) Seed Oil', 'Euphorbia Cerifera (Canelilla) Cera', '*Ricinus Communis (Castor) Seed Oil', 'Beta Vulgaris', 'Pelargonium Graveolens (Geranium) Flower Oil', '*Mentha Spicata (Spearmint) Herb Oil', '*Mentha Piperita (Peppermint) Oil', 'Citronellol', 'Geraniol']"
+Grapefruit Lip Balm,Hurraw!,lip-care,"
+
+          $3.79
+        
+","['*Carthamus Tinctorius (Safflower) Seed Oil', 'Euphorbia Cerifera (Candelilla) Wax', '*Prunus Amygdalus Dulcis (Sweet Almond) Oil', '*Cocos Nucifera (Coconut) Oil', '*Ricinus Communis (Castor) Seed Oil', '*Theobroma Cacao (Cacao) Seed Butter', '*Simmondsia Chinensis (Jojoba) Seed Oil', '*Olea Europaea (Olive) Fruit Oil', 'Citrus Paradisi(Grapefruit)Peel Oil', 'Tocopherol', 'Alkanna Tinctoria (Alkanet) Root Extract', 'Helianthus Annuus (Sunflower) Seed Oil', '**Citral', '**Limonene', '**Linalool']"
+Sun Protection Lip Balm SPF 15,Hurraw!,lip-care,"
+
+          $4.29
+        
+","['Active Ingredient: Non-Nano Uncoated Zinc Oxide 17%', '*Carthamus Tinctorius (Safflower) Seed Oil', 'Zinc Oxide', '*Cocos Nucifera (Coconut) Oil', 'Euphorbia Cerifera Cera (Candelilla) Wax', '*Olea Europaea (Olive) Fruit Oil', '*Ricinus Communis (Castor) Seed Oil', '*Rubus Idaeus (Raspberry) Seed Oil', '*Theobroma Cacao (Cacao) Seed Butter', 'Aroma', 'Tocopherol', '*Hippophae Rhamnoides (Sea Buckthorn) Seed Oil', '*Punica Granatum (Pomegranate) Seed Oil', 'Citrus Aurantium Dulcis (Sweet Orange) Peel Oil', 'Citrus Reticulata (Tangerine) Peel Oil', 'Anthemis Nobilis (Roman Chamomile) Flower Oil', 'Helianthus Annuus (Sunflower) Seed Oil', '*Vanilla Planifolia (Vanilla)', '**Benzyl Benzoate', 'Limonene', '**Linalool', 'Anise Alcohol']"
+Lemon Lip Balm,Hurraw!,lip-care,"
+
+          $3.79
+        
+","['Sweet Almond Oil', '*Candelilla Wax', '**Coconut Oil', '**Jojoba Oil', '**Cocoa Butter', '**Castor Oil', 'Olive Fruit Oil', 'Citrus Lemon Oil', 'Lemongrass Extract', '**Sunflower Seed Oil']"
+Mint Lip Balm,Hurraw!,lip-care,"
+
+          $3.79
+        
+","['*Carthamus Tinctorius (Safflower) Seed Oil', 'Euphorbia Cerifera Cera (Candelilla) Wax', 'Prunus Amygdalus Dulcis (Sweet Almond) Oil', '*Cocos Nucifera (Coconut) Oil', '*Ricinus Communis (Castor) Seed Oil', '*Theobroma Cacao (Cacao) Seed Butter', '*Jojoba Oil', '*Olea Europaea (Olive) Fruit Oil', 'Mentha Piperita (Peppermint) Oil', 'Tocopherol', 'Helianthus Annuus (Sunflower) Seed Oil', '**Limonene', '**Linalool']"
+Nutrient Day Cream SPF 30,Josh Rosebrook,sun-care,"
+
+          $85.00
+        
+","['*Aloe Vera Leaf Juice', '*Shea Butter', '*Evening Primrose Oil', '*Hemp Seed Oil', '*Jojoba Oil', '*Saponified Borage Oil', '*Sweet Almond Oil', 'Grape Seed Oil', '*Sesame Seed Oil', '*Seabuckthorn Essential Oil', 'Zinc Oxide', '*Soy Lecithin', '*Calendula Extract', '*Bilberry Fruit Extract', '*Chamomile', '*Burdock', '*Rosemary', '*Fennel Essential Oil', '*Dandelion Extract', '*Rose Hips', '*Catnip', '*Chickweed', '*Neem Leaf', '*Skullcap', '*Ginkgo Leaf', '*Linden Flower Extract', '*Hawthorn Berry', '*Green Tea', '*Flax', '*Nettle', '*Clary Sage', '*Marshmallow Root', '*Cayenne Pepper', '*Ginseng', '*Peppermint Essential Oil', ""*St. John's Wort Extract"", '*Alfalfa Extract', '*Vitamin E', '*Candelilla Wax', '*Guar Gum Extract', '*Acacia Arabica Gum', '**Xanthan Gum', '**Potassium Sorbate', '*Benzoin']"
+Daily Sheer Facial Sunscreen SPF 40 – Fragrance Free,Babo Botanicals,sun-care,"
+
+          $21.00
+        
+","['Titanium Dioxide', 'Zinc Oxide', '*Aloe Vera Leaf Juice', 'Rose Hip Fruit Oil', 'Green Tea', '*Sunflower Seed Oil', 'Myristyl Alcohol', 'Myristyl Glucoside', 'Cetearyl Alcohol', 'Coco Glucoside', 'Wheat Protein, Hydrolyzed', 'Hydrogenated Glyceryl Abietate', '*Castor Oil', '*Beeswax', 'Persea Gratissima Oil (Avocado Oil)', 'Phenethyl Alcohol', 'Ethylhexylglycerin', 'Pongamia Pinnata Seed Oil', '*Shea Butter', '*Jojoba Oil', 'Hydroxyethyl Acrylate', 'Sodium Acryloyl Dimethyl Taurate Copolymer', 'Glycerin', 'White Tea Extract', 'Rose Flower Extract', 'Triethoxycaprylylsilane', 'Aluminum Hydroxide', 'Hydrogen Dimethicone', 'Dehydroxanthan Gum']"
+Three Sixty Five SPF 28,Kari Gran,sun-care,"
+
+          $48.00
+        
+","['Non-Nano Zinc Oxide', 'Red Raspberry Seed Oil', 'Plum Oil', '*Macadamia Nut Oil', 'Kukui Nut Oil', '*Avocado Oil', '*Jojoba Oil', '*Beeswax', 'Tocopherol']"
+Tinted Nutrient Day Cream SPF 30,Josh Rosebrook,sun-care,"
+
+          $95.00
+        
+","['Zinc', '*Aloe Vera Leaf Juice', '*Shea Butter', '*Evening Primrose Oil', '*Hemp Seed Oil', '*Jojoba Oil', '*Borage Seed Oil', '*Almond Oil', '*Grape Seed Oil', '*Sesame Seed Oil', '*Olive Fruit Oil', '*Seabuckthorn Essential Oil', '*Broccoli Seed Oil', '*Calendula Extract', '*Bilberry Fruit Extract', '*Chamomile', '*Great Burdock Root Extract', '*Rosemary Extract', '*Fennel Essential Oil', '*Dandelion Extract', '*Rose Hip Fruit Oil', '*Catnip', '*Chickweed', '*Neem Leaf', '*Skullcap', '*Ginkgo Leaf', '*Linden Flower Extract', '*Hawthorn Berry', '*Green Tea Leaf', '*Flax', '*Nettle', '*Sage Extract', '*Marshmallow Root', '*Cayanne', '*Ginseng', '*Peppermint', ""*St. John's Wort Extract"", '*Alfalfa Extract', '*Vitamin E', 'Candelilla Wax', 'Guar Gum Extract', 'Acacia Arabica Gum', 'Xanthan Gum', 'Potassium Sorbate', 'Mica', '*Benzoin', 'Carrot Seed Oil']"
+Daily Sheer Tinted Facial Mineral Sunscreen SPF 30 – Natural Glow,Babo Botanicals,sun-care,"
+
+          $21.00
+        
+","['Active Ingredients: Titanium Dioxide 6.00% Sunscreen', 'Zinc Oxide 6.00% Sunscreen', '*Inactive Ingredients: Aloe Barbadensis Leaf (Aloe Vera Gel) Juice', 'Aqua (Deionized Water)', 'Argania spinosa (Argan) Oil', '*Beeswax', '*Organic Butyrospermum Parkii (Shea) Butter', 'C13-14 Alkyls Benzoate', '*Organic Camellia Sinensis (Green Tea) Extract', 'Caryodendron Orinocense (Kahai) Oil', 'Caprylic/Capric Triglyceride', '*Organic Cocos Nucifera (Coconut) Oil', 'Cucumis Sativus (Cucumber) Extract', 'Decyl Glucoside', '*Glycerin', 'Glyceryl Caprylate', 'Glyceryl Stearate Citrate', 'Glyceryl Stearate', 'Glyceryl Undecylenate', '*Organic Helianthus Annuus (Sunflower) Oil', 'Hippophae Rhamnoides (Sea Buckthorn) Oil', 'Hyaluronic Acid - Hydrating Agent', 'Iron Oxides', 'Lecithin', 'Mangifera Indica (Mango) Butter', '*Organic Punica Granatum (Pomegranate) Extract', '*Organic Rosmarinus Officinalis (Rosemary) Oil', 'Saccharide Isomerate', 'Sodium Polyacrylate', 'Stearic Acid', 'Vitamin E (Tocopherol)', 'Xanthan Gum', 'Zemea (Corn) Propanediol']"
+Lavender Protective Moisturizer SPF 17,Naturopathica,sun-care,"
+
+          $64.00
+        
+","['Active Ingredient: Zinc Oxide 7.02%', 'Inactive Ingredients: Aqua (Water)', 'Caprylic/Capric Triglyceride', 'Cetearyl Olivate', 'Glycerin', 'Cyclopentasiloxane', 'Sorbitan Olivate', 'Squalane (Olive)', 'Triticum Vulgare (Wheat) Germ Oil', 'Olea Europaea (Olive) Fruit Oil', 'Simmondsia Chinensis Seed (Jojoba) Seed Oil', 'Xanthan Gum', 'Magnesium Aluminum Silicate', '1,2-Hexanediol', 'Glyceryl Isostearate', 'Caprylyl Clycol', 'Alcohol Denat.', 'Populus Tremuloides Bark Extract', 'Leuconostoc/Radish Root Ferment Filtrate', 'Citric Acid', 'Polyhydroxystearic Acid', 'Tocopheryl Acetate (D-alpha)', 'Lavandula Angustifolia (Lavender) Oil', 'Beta-Glucan (D)', 'Gluconolactone', 'Phytic Acid', 'Potassium Sorbate', 'Lonicera Caprifolium (Honeysuckle) Flower Extract', 'Lonicera Japonica (Honeysuckle) Flower Extract', 'Cinnamomum Camphora (Camphor) Bark Oil', 'Hamamelis Virginiana (Witch Hazel) Water', 'Tropolone', 'Glycine Soja (Soybean) Oil', 'Tocotrienols', 'Elaeis Guineensis (Palm) Oil', 'Alcohol', 'Tocopherol (D-alpha)', 'Tetrahydrodiferuloylmethane', 'Tetrahydrodemethoxydiferuloylmethane', 'Tetrahydrobisdemethoxydiferuloylmethane']"
+Force Field Daily Defense Lotion with SPF 18,Ursa Major,sun-care,"
+
+          $54.00
+        
+","['Zinc Oxide (Non-Nano, 10%)', '*Aloe Barbadensis (Aloe Vera) Leaf Juice', 'Caprylic/Capric Triglyceride', 'Glycerin', 'Butyrospermum Parkii (Shea) Butter*', 'Gluconolactone', '*Squalane', 'Citric Acid', 'Glyceryl Stearate', 'Sorbitan Stearate', '*Helianthus Annuus (Sunflower) Seed Oil', '*Simmondsia Chinensis (Jojoba) Seed Oil', 'Cetyl Alcohol', 'Sodium Benzoate', 'Cetearyl Glucoside', 'Cetearyl Alcohol', 'Rosa Damascena Leaf Cell Extract', 'Malus Domestica Callus Extract', 'Argemone Mexicana Callus Extract', 'Sclerotium Gum', 'Lysolecithin', 'Pullulan', 'Xanthan Gum', 'Sodium Hyaluronate', 'Sodium Phytate']"
+Mineral Sunscreen Unscented SPF 30,Suntegrity,sun-care,"
+
+          $24.00
+        
+","['Zinc', '*Aloe Vera Leaf Juice', '*Camellia Sinensis (Organic Green Tea Leaf Extract/Extrait De Feuilles De Thé Vert Bio)', 'Caprylic Triglyceride', 'Cetyl Dimethicone', '*Cucumber Fruit Extract', 'Dimethicone', '**Ethylhexylglycerin', '**Glyceryl Monostearate', '*Sunflower Seed Oil', '**Hexyl Laurate', '**Hyaluronic Acid', '**Epsom Salt', 'Polyaminopropyl Biguanide', '**Polyglyceryl 4 Isostearate', '*Pomegranate Oil', '*Jojoba Oil', '**Sorbitan Stearate', 'Water']"
+Super Shield Sport Stick Sunscreen SPF 50,Babo Botanicals,sun-care,"
+
+          $16.00
+        
+","['Zinc Oxide', '*Beeswax', 'Bisabolol', '*Shea Butter', '*Tamanu Seed Oil', 'Candelilla Wax', 'Jojoba Esters (Beads)', 'Octyldodecyl Olivate', '*Rice Bran Oil', 'Oryzanol', '*Avocado Oil', '*Jojoba Oil', '*Cocoa Butter', 'Tocopherol']"
+Mineral Sunscreen SPF 30 Fragrance-Free,Love Sun Body,sun-care,"
+
+          $36.00
+        
+","['*Zinc Oxide (Non-nano) 20.4%', 'Almond Oil', 'Aqua/Water', 'Benzoic Acid', 'Caprylic/Capric Triglyceride (Coconut Oil)', 'Cetyl Alcohol', 'Glycerin', 'Glyceryl Sterate SE', 'Polyhydroxystearic Acid', 'Sorbitan Laurate', 'Sunflower Oil', 'Tocopherol (Vitamin E/Vitamine E)', 'Xanthan Gum']"
+Mineral Sunscreen SPF 30 Lightly Scented,Love Sun Body,sun-care,"
+
+          $36.00
+        
+","['Glycerin', 'Cetyl Alcohol', 'Zinc Oxide (Non-nano) 20.4%', 'Ingredient', 'Aqua/Water', '*Zinc Oxide (Non-nano) 20.4%', 'Caprylic/Capric Triglyceride (Coconut Oil)', 'Glyceryl Sterate SE', 'Sorbitan Laurate', 'Xathan Gum', 'Mauritia Flexuosa Fruit (Buriti) Oil']"
+Mineral Sunscreen SPF 30,Suntegrity,sun-care,"
+
+          $36.00
+        
+","['Zinc', '*Aloe Vera Leaf Juice', 'Camellia Sinensis (Organic Green Tea Leaf Extract/Extrait De Feuilles De Thé Vert Bio)', 'Caprylic Triglyceride', 'Cetyl Dimethicone', 'Sweet Orange Oil', 'Grapefruit Seed Extract', 'Tangerine Peel Oil', 'Cucumber Fruit Extract', 'Ethylhexylglycerin', '**Glyceryl Monostearate', 'Sunflower Seed Oil', '**Hexyl Laurate', '**Hyaluronic Acid', 'Epsom Salt', 'Polyaminopropyl Biguanide', '**Polyglyceryl 4 Isostearate', 'Pomegranate Oil', 'Jojoba Oil', '**Sorbitan Stearate', 'Water']"
